@@ -37,7 +37,7 @@
   "fogReset": 1676775932068,
   "globalLight": false,
   "globalLightThreshold": null,
-  "darkness": 1,
+  "darkness": 0,
   "fogOverlay": null,
   "fogExploredColor": null,
   "fogUnexploredColor": null,
@@ -4767,7 +4767,7 @@
     "systemVersion": "4.8.2",
     "coreVersion": "10.291",
     "createdTime": 1676775932148,
-    "modifiedTime": 1677608496999,
+    "modifiedTime": 1677608828344,
     "lastModifiedBy": "AQTMS1rzVilmPSeQ"
   }
 }
