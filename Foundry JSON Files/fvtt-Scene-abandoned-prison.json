@@ -45,16 +45,16 @@
   "tokens": [],
   "lights": [
     {
-      "_id": "yDjsH60DfvFtAWpH",
+      "_id": "3zOel4TYvNjsWTqn",
       "x": 1800,
-      "y": 1750,
+      "y": 2250,
       "rotation": 0,
       "walls": true,
       "vision": false,
       "config": {
         "alpha": 0.5,
         "angle": 360,
-        "bright": 20,
+        "bright": 0,
         "color": null,
         "coloration": 1,
         "dim": 40,
@@ -70,7 +70,7 @@
           "reverse": false
         },
         "darkness": {
-          "min": 0,
+          "min": 1,
           "max": 1
         }
       },
@@ -78,139 +78,73 @@
       "flags": {}
     },
     {
-      "x": 2300,
-      "y": 1750,
-      "rotation": 0,
-      "walls": true,
-      "vision": false,
-      "config": {
-        "alpha": 0.5,
-        "angle": 360,
-        "bright": 20,
-        "color": null,
-        "coloration": 1,
-        "dim": 40,
-        "attenuation": 0.5,
-        "luminosity": 0.5,
-        "saturation": 0,
-        "contrast": 0,
-        "shadows": 0,
-        "animation": {
-          "type": null,
-          "speed": 5,
-          "intensity": 5,
-          "reverse": false
-        },
-        "darkness": {
-          "min": 0,
-          "max": 1
-        }
-      },
-      "hidden": false,
-      "flags": {},
-      "_id": "YhxsyX6qKiGa1BxZ"
-    },
-    {
-      "x": 2850,
-      "y": 1750,
-      "rotation": 0,
-      "walls": true,
-      "vision": false,
-      "config": {
-        "alpha": 0.5,
-        "angle": 360,
-        "bright": 20,
-        "color": null,
-        "coloration": 1,
-        "dim": 40,
-        "attenuation": 0.5,
-        "luminosity": 0.5,
-        "saturation": 0,
-        "contrast": 0,
-        "shadows": 0,
-        "animation": {
-          "type": null,
-          "speed": 5,
-          "intensity": 5,
-          "reverse": false
-        },
-        "darkness": {
-          "min": 0,
-          "max": 1
-        }
-      },
-      "hidden": false,
-      "flags": {},
-      "_id": "b8vZZDVvUJ9PQLP0"
-    },
-    {
-      "x": 2850,
-      "y": 2250,
-      "rotation": 0,
-      "walls": true,
-      "vision": false,
-      "config": {
-        "alpha": 0.5,
-        "angle": 360,
-        "bright": 20,
-        "color": null,
-        "coloration": 1,
-        "dim": 40,
-        "attenuation": 0.5,
-        "luminosity": 0.5,
-        "saturation": 0,
-        "contrast": 0,
-        "shadows": 0,
-        "animation": {
-          "type": null,
-          "speed": 5,
-          "intensity": 5,
-          "reverse": false
-        },
-        "darkness": {
-          "min": 0,
-          "max": 1
-        }
-      },
-      "hidden": false,
-      "flags": {},
-      "_id": "GHpESZpnKsYMis4b"
-    },
-    {
-      "x": 2300,
-      "y": 2250,
-      "rotation": 0,
-      "walls": true,
-      "vision": false,
-      "config": {
-        "alpha": 0.5,
-        "angle": 360,
-        "bright": 20,
-        "color": null,
-        "coloration": 1,
-        "dim": 40,
-        "attenuation": 0.5,
-        "luminosity": 0.5,
-        "saturation": 0,
-        "contrast": 0,
-        "shadows": 0,
-        "animation": {
-          "type": null,
-          "speed": 5,
-          "intensity": 5,
-          "reverse": false
-        },
-        "darkness": {
-          "min": 0,
-          "max": 1
-        }
-      },
-      "hidden": false,
-      "flags": {},
-      "_id": "5ACiFKkcXXjkTL8H"
-    },
-    {
       "x": 1800,
+      "y": 1750,
+      "rotation": 0,
+      "walls": true,
+      "vision": false,
+      "config": {
+        "alpha": 0.5,
+        "angle": 360,
+        "bright": 0,
+        "color": null,
+        "coloration": 1,
+        "dim": 40,
+        "attenuation": 0.5,
+        "luminosity": 0.5,
+        "saturation": 0,
+        "contrast": 0,
+        "shadows": 0,
+        "animation": {
+          "type": null,
+          "speed": 5,
+          "intensity": 5,
+          "reverse": false
+        },
+        "darkness": {
+          "min": 1,
+          "max": 1
+        }
+      },
+      "hidden": false,
+      "flags": {},
+      "_id": "Ngji96a6s23F5has"
+    },
+    {
+      "x": 2300,
+      "y": 1750,
+      "rotation": 0,
+      "walls": true,
+      "vision": false,
+      "config": {
+        "alpha": 0.5,
+        "angle": 360,
+        "bright": 0,
+        "color": null,
+        "coloration": 1,
+        "dim": 40,
+        "attenuation": 0.5,
+        "luminosity": 0.5,
+        "saturation": 0,
+        "contrast": 0,
+        "shadows": 0,
+        "animation": {
+          "type": null,
+          "speed": 5,
+          "intensity": 5,
+          "reverse": false
+        },
+        "darkness": {
+          "min": 1,
+          "max": 1
+        }
+      },
+      "hidden": false,
+      "flags": {},
+      "_id": "8MNLj3FJOIh5arUw"
+    },
+    {
+      "x": 2300,
       "y": 2250,
       "rotation": 0,
       "walls": true,
@@ -218,7 +152,7 @@
       "config": {
         "alpha": 0.5,
         "angle": 360,
-        "bright": 20,
+        "bright": 0,
         "color": null,
         "coloration": 1,
         "dim": 40,
@@ -234,156 +168,24 @@
           "reverse": false
         },
         "darkness": {
-          "min": 0,
+          "min": 1,
           "max": 1
         }
       },
       "hidden": false,
       "flags": {},
-      "_id": "gZxuNLyYox8oBDWC"
-    },
-    {
-      "x": 1900,
-      "y": 2500,
-      "rotation": 0,
-      "walls": true,
-      "vision": false,
-      "config": {
-        "alpha": 0.5,
-        "angle": 360,
-        "bright": 20,
-        "color": null,
-        "coloration": 1,
-        "dim": 40,
-        "attenuation": 0.5,
-        "luminosity": 0.5,
-        "saturation": 0,
-        "contrast": 0,
-        "shadows": 0,
-        "animation": {
-          "type": null,
-          "speed": 5,
-          "intensity": 5,
-          "reverse": false
-        },
-        "darkness": {
-          "min": 0,
-          "max": 1
-        }
-      },
-      "hidden": false,
-      "flags": {},
-      "_id": "SGrUfEx0ih5xYjQk"
-    },
-    {
-      "x": 2650,
-      "y": 2500,
-      "rotation": 0,
-      "walls": true,
-      "vision": false,
-      "config": {
-        "alpha": 0.5,
-        "angle": 360,
-        "bright": 20,
-        "color": null,
-        "coloration": 1,
-        "dim": 40,
-        "attenuation": 0.5,
-        "luminosity": 0.5,
-        "saturation": 0,
-        "contrast": 0,
-        "shadows": 0,
-        "animation": {
-          "type": null,
-          "speed": 5,
-          "intensity": 5,
-          "reverse": false
-        },
-        "darkness": {
-          "min": 0,
-          "max": 1
-        }
-      },
-      "hidden": false,
-      "flags": {},
-      "_id": "yMc3e1KAl4cmpTif"
-    },
-    {
-      "x": 2300,
-      "y": 2900,
-      "rotation": 0,
-      "walls": true,
-      "vision": false,
-      "config": {
-        "alpha": 0.5,
-        "angle": 360,
-        "bright": 20,
-        "color": null,
-        "coloration": 1,
-        "dim": 40,
-        "attenuation": 0.5,
-        "luminosity": 0.5,
-        "saturation": 0,
-        "contrast": 0,
-        "shadows": 0,
-        "animation": {
-          "type": null,
-          "speed": 5,
-          "intensity": 5,
-          "reverse": false
-        },
-        "darkness": {
-          "min": 0,
-          "max": 1
-        }
-      },
-      "hidden": false,
-      "flags": {},
-      "_id": "nx8oJqHtWvK2fsom"
-    },
-    {
-      "x": 2800,
-      "y": 3150,
-      "rotation": 0,
-      "walls": true,
-      "vision": false,
-      "config": {
-        "alpha": 0.5,
-        "angle": 360,
-        "bright": 20,
-        "color": null,
-        "coloration": 1,
-        "dim": 40,
-        "attenuation": 0.5,
-        "luminosity": 0.5,
-        "saturation": 0,
-        "contrast": 0,
-        "shadows": 0,
-        "animation": {
-          "type": null,
-          "speed": 5,
-          "intensity": 5,
-          "reverse": false
-        },
-        "darkness": {
-          "min": 0,
-          "max": 1
-        }
-      },
-      "hidden": false,
-      "flags": {},
-      "_id": "GOJCB3gaH2ppIdwz"
+      "_id": "wP9yFU159PY4s0tU"
     },
     {
       "x": 2850,
-      "y": 2500,
+      "y": 1750,
       "rotation": 0,
       "walls": true,
       "vision": false,
       "config": {
         "alpha": 0.5,
         "angle": 360,
-        "bright": 20,
+        "bright": 0,
         "color": null,
         "coloration": 1,
         "dim": 40,
@@ -399,684 +201,24 @@
           "reverse": false
         },
         "darkness": {
-          "min": 0,
+          "min": 1,
           "max": 1
         }
       },
       "hidden": false,
       "flags": {},
-      "_id": "ZHI9GVIjNSmYqMqx"
-    },
-    {
-      "x": 3050,
-      "y": 2450,
-      "rotation": 0,
-      "walls": true,
-      "vision": false,
-      "config": {
-        "alpha": 0.5,
-        "angle": 360,
-        "bright": 20,
-        "color": null,
-        "coloration": 1,
-        "dim": 40,
-        "attenuation": 0.5,
-        "luminosity": 0.5,
-        "saturation": 0,
-        "contrast": 0,
-        "shadows": 0,
-        "animation": {
-          "type": null,
-          "speed": 5,
-          "intensity": 5,
-          "reverse": false
-        },
-        "darkness": {
-          "min": 0,
-          "max": 1
-        }
-      },
-      "hidden": false,
-      "flags": {},
-      "_id": "Dzl7nPNpu9XviudA"
-    },
-    {
-      "x": 3150,
-      "y": 2350,
-      "rotation": 0,
-      "walls": true,
-      "vision": false,
-      "config": {
-        "alpha": 0.5,
-        "angle": 360,
-        "bright": 20,
-        "color": null,
-        "coloration": 1,
-        "dim": 40,
-        "attenuation": 0.5,
-        "luminosity": 0.5,
-        "saturation": 0,
-        "contrast": 0,
-        "shadows": 0,
-        "animation": {
-          "type": null,
-          "speed": 5,
-          "intensity": 5,
-          "reverse": false
-        },
-        "darkness": {
-          "min": 0,
-          "max": 1
-        }
-      },
-      "hidden": false,
-      "flags": {},
-      "_id": "ujIkgxuexMUAlVZJ"
-    },
-    {
-      "x": 3050,
-      "y": 2000,
-      "rotation": 0,
-      "walls": true,
-      "vision": false,
-      "config": {
-        "alpha": 0.5,
-        "angle": 360,
-        "bright": 20,
-        "color": null,
-        "coloration": 1,
-        "dim": 40,
-        "attenuation": 0.5,
-        "luminosity": 0.5,
-        "saturation": 0,
-        "contrast": 0,
-        "shadows": 0,
-        "animation": {
-          "type": null,
-          "speed": 5,
-          "intensity": 5,
-          "reverse": false
-        },
-        "darkness": {
-          "min": 0,
-          "max": 1
-        }
-      },
-      "hidden": false,
-      "flags": {},
-      "_id": "e2cGp5gQfwBdiJH0"
-    },
-    {
-      "x": 3050,
-      "y": 1550,
-      "rotation": 0,
-      "walls": true,
-      "vision": false,
-      "config": {
-        "alpha": 0.5,
-        "angle": 360,
-        "bright": 20,
-        "color": null,
-        "coloration": 1,
-        "dim": 40,
-        "attenuation": 0.5,
-        "luminosity": 0.5,
-        "saturation": 0,
-        "contrast": 0,
-        "shadows": 0,
-        "animation": {
-          "type": null,
-          "speed": 5,
-          "intensity": 5,
-          "reverse": false
-        },
-        "darkness": {
-          "min": 0,
-          "max": 1
-        }
-      },
-      "hidden": false,
-      "flags": {},
-      "_id": "4fTHxBKT3XJThxiI"
-    },
-    {
-      "x": 3150,
-      "y": 1650,
-      "rotation": 0,
-      "walls": true,
-      "vision": false,
-      "config": {
-        "alpha": 0.5,
-        "angle": 360,
-        "bright": 20,
-        "color": null,
-        "coloration": 1,
-        "dim": 40,
-        "attenuation": 0.5,
-        "luminosity": 0.5,
-        "saturation": 0,
-        "contrast": 0,
-        "shadows": 0,
-        "animation": {
-          "type": null,
-          "speed": 5,
-          "intensity": 5,
-          "reverse": false
-        },
-        "darkness": {
-          "min": 0,
-          "max": 1
-        }
-      },
-      "hidden": false,
-      "flags": {},
-      "_id": "eJu7ri9RYLshqwvy"
-    },
-    {
-      "x": 3600,
-      "y": 1650,
-      "rotation": 0,
-      "walls": true,
-      "vision": false,
-      "config": {
-        "alpha": 0.5,
-        "angle": 360,
-        "bright": 20,
-        "color": null,
-        "coloration": 1,
-        "dim": 40,
-        "attenuation": 0.5,
-        "luminosity": 0.5,
-        "saturation": 0,
-        "contrast": 0,
-        "shadows": 0,
-        "animation": {
-          "type": null,
-          "speed": 5,
-          "intensity": 5,
-          "reverse": false
-        },
-        "darkness": {
-          "min": 0,
-          "max": 1
-        }
-      },
-      "hidden": false,
-      "flags": {},
-      "_id": "ArwGmeC35KSSGAqy"
-    },
-    {
-      "x": 3600,
-      "y": 1550,
-      "rotation": 0,
-      "walls": true,
-      "vision": false,
-      "config": {
-        "alpha": 0.5,
-        "angle": 360,
-        "bright": 20,
-        "color": null,
-        "coloration": 1,
-        "dim": 40,
-        "attenuation": 0.5,
-        "luminosity": 0.5,
-        "saturation": 0,
-        "contrast": 0,
-        "shadows": 0,
-        "animation": {
-          "type": null,
-          "speed": 5,
-          "intensity": 5,
-          "reverse": false
-        },
-        "darkness": {
-          "min": 0,
-          "max": 1
-        }
-      },
-      "hidden": false,
-      "flags": {},
-      "_id": "eyWF9d41i0PQ3oQb"
-    },
-    {
-      "x": 3800,
-      "y": 1550,
-      "rotation": 0,
-      "walls": true,
-      "vision": false,
-      "config": {
-        "alpha": 0.5,
-        "angle": 360,
-        "bright": 20,
-        "color": null,
-        "coloration": 1,
-        "dim": 40,
-        "attenuation": 0.5,
-        "luminosity": 0.5,
-        "saturation": 0,
-        "contrast": 0,
-        "shadows": 0,
-        "animation": {
-          "type": null,
-          "speed": 5,
-          "intensity": 5,
-          "reverse": false
-        },
-        "darkness": {
-          "min": 0,
-          "max": 1
-        }
-      },
-      "hidden": false,
-      "flags": {},
-      "_id": "wdDbRlx4sHHltxlI"
-    },
-    {
-      "x": 3800,
-      "y": 1650,
-      "rotation": 0,
-      "walls": true,
-      "vision": false,
-      "config": {
-        "alpha": 0.5,
-        "angle": 360,
-        "bright": 20,
-        "color": null,
-        "coloration": 1,
-        "dim": 40,
-        "attenuation": 0.5,
-        "luminosity": 0.5,
-        "saturation": 0,
-        "contrast": 0,
-        "shadows": 0,
-        "animation": {
-          "type": null,
-          "speed": 5,
-          "intensity": 5,
-          "reverse": false
-        },
-        "darkness": {
-          "min": 0,
-          "max": 1
-        }
-      },
-      "hidden": false,
-      "flags": {},
-      "_id": "RapdQD7iac1zsv6A"
-    },
-    {
-      "x": 4250,
-      "y": 1650,
-      "rotation": 0,
-      "walls": true,
-      "vision": false,
-      "config": {
-        "alpha": 0.5,
-        "angle": 360,
-        "bright": 20,
-        "color": null,
-        "coloration": 1,
-        "dim": 40,
-        "attenuation": 0.5,
-        "luminosity": 0.5,
-        "saturation": 0,
-        "contrast": 0,
-        "shadows": 0,
-        "animation": {
-          "type": null,
-          "speed": 5,
-          "intensity": 5,
-          "reverse": false
-        },
-        "darkness": {
-          "min": 0,
-          "max": 1
-        }
-      },
-      "hidden": false,
-      "flags": {},
-      "_id": "DQpD9WK1oyOVxMHK"
-    },
-    {
-      "x": 4350,
-      "y": 1550,
-      "rotation": 0,
-      "walls": true,
-      "vision": false,
-      "config": {
-        "alpha": 0.5,
-        "angle": 360,
-        "bright": 20,
-        "color": null,
-        "coloration": 1,
-        "dim": 40,
-        "attenuation": 0.5,
-        "luminosity": 0.5,
-        "saturation": 0,
-        "contrast": 0,
-        "shadows": 0,
-        "animation": {
-          "type": null,
-          "speed": 5,
-          "intensity": 5,
-          "reverse": false
-        },
-        "darkness": {
-          "min": 0,
-          "max": 1
-        }
-      },
-      "hidden": false,
-      "flags": {},
-      "_id": "MT1mJZu74amoU5lp"
-    },
-    {
-      "x": 4350,
-      "y": 2000,
-      "rotation": 0,
-      "walls": true,
-      "vision": false,
-      "config": {
-        "alpha": 0.5,
-        "angle": 360,
-        "bright": 20,
-        "color": null,
-        "coloration": 1,
-        "dim": 40,
-        "attenuation": 0.5,
-        "luminosity": 0.5,
-        "saturation": 0,
-        "contrast": 0,
-        "shadows": 0,
-        "animation": {
-          "type": null,
-          "speed": 5,
-          "intensity": 5,
-          "reverse": false
-        },
-        "darkness": {
-          "min": 0,
-          "max": 1
-        }
-      },
-      "hidden": false,
-      "flags": {},
-      "_id": "F6nmx5oQIcJHe02g"
-    },
-    {
-      "x": 4350,
-      "y": 2450,
-      "rotation": 0,
-      "walls": true,
-      "vision": false,
-      "config": {
-        "alpha": 0.5,
-        "angle": 360,
-        "bright": 20,
-        "color": null,
-        "coloration": 1,
-        "dim": 40,
-        "attenuation": 0.5,
-        "luminosity": 0.5,
-        "saturation": 0,
-        "contrast": 0,
-        "shadows": 0,
-        "animation": {
-          "type": null,
-          "speed": 5,
-          "intensity": 5,
-          "reverse": false
-        },
-        "darkness": {
-          "min": 0,
-          "max": 1
-        }
-      },
-      "hidden": false,
-      "flags": {},
-      "_id": "KEtC63YukdH9t7cN"
-    },
-    {
-      "x": 4550,
-      "y": 2500,
-      "rotation": 0,
-      "walls": true,
-      "vision": false,
-      "config": {
-        "alpha": 0.5,
-        "angle": 360,
-        "bright": 20,
-        "color": null,
-        "coloration": 1,
-        "dim": 40,
-        "attenuation": 0.5,
-        "luminosity": 0.5,
-        "saturation": 0,
-        "contrast": 0,
-        "shadows": 0,
-        "animation": {
-          "type": null,
-          "speed": 5,
-          "intensity": 5,
-          "reverse": false
-        },
-        "darkness": {
-          "min": 0,
-          "max": 1
-        }
-      },
-      "hidden": false,
-      "flags": {},
-      "_id": "uvFkqy4VhzugUTCU"
-    },
-    {
-      "x": 5050,
-      "y": 2350,
-      "rotation": 0,
-      "walls": true,
-      "vision": false,
-      "config": {
-        "alpha": 0.5,
-        "angle": 360,
-        "bright": 20,
-        "color": null,
-        "coloration": 1,
-        "dim": 40,
-        "attenuation": 0.5,
-        "luminosity": 0.5,
-        "saturation": 0,
-        "contrast": 0,
-        "shadows": 0,
-        "animation": {
-          "type": null,
-          "speed": 5,
-          "intensity": 5,
-          "reverse": false
-        },
-        "darkness": {
-          "min": 0,
-          "max": 1
-        }
-      },
-      "hidden": false,
-      "flags": {},
-      "_id": "najwS2iSUkLqKkhL"
-    },
-    {
-      "x": 5000,
-      "y": 2850,
-      "rotation": 0,
-      "walls": true,
-      "vision": false,
-      "config": {
-        "alpha": 0.5,
-        "angle": 360,
-        "bright": 20,
-        "color": null,
-        "coloration": 1,
-        "dim": 40,
-        "attenuation": 0.5,
-        "luminosity": 0.5,
-        "saturation": 0,
-        "contrast": 0,
-        "shadows": 0,
-        "animation": {
-          "type": null,
-          "speed": 5,
-          "intensity": 5,
-          "reverse": false
-        },
-        "darkness": {
-          "min": 0,
-          "max": 1
-        }
-      },
-      "hidden": false,
-      "flags": {},
-      "_id": "4WxQPuSAcUhUcB0j"
-    },
-    {
-      "x": 3600,
-      "y": 2350,
-      "rotation": 0,
-      "walls": true,
-      "vision": false,
-      "config": {
-        "alpha": 0.5,
-        "angle": 360,
-        "bright": 20,
-        "color": null,
-        "coloration": 1,
-        "dim": 40,
-        "attenuation": 0.5,
-        "luminosity": 0.5,
-        "saturation": 0,
-        "contrast": 0,
-        "shadows": 0,
-        "animation": {
-          "type": null,
-          "speed": 5,
-          "intensity": 5,
-          "reverse": false
-        },
-        "darkness": {
-          "min": 0,
-          "max": 1
-        }
-      },
-      "hidden": false,
-      "flags": {},
-      "_id": "XlKmoO5DnSmEZFJf"
-    },
-    {
-      "x": 3800,
-      "y": 2350,
-      "rotation": 0,
-      "walls": true,
-      "vision": false,
-      "config": {
-        "alpha": 0.5,
-        "angle": 360,
-        "bright": 20,
-        "color": null,
-        "coloration": 1,
-        "dim": 40,
-        "attenuation": 0.5,
-        "luminosity": 0.5,
-        "saturation": 0,
-        "contrast": 0,
-        "shadows": 0,
-        "animation": {
-          "type": null,
-          "speed": 5,
-          "intensity": 5,
-          "reverse": false
-        },
-        "darkness": {
-          "min": 0,
-          "max": 1
-        }
-      },
-      "hidden": false,
-      "flags": {},
-      "_id": "4JtGiTRzjM5o7LaH"
-    },
-    {
-      "x": 3800,
-      "y": 2450,
-      "rotation": 0,
-      "walls": true,
-      "vision": false,
-      "config": {
-        "alpha": 0.5,
-        "angle": 360,
-        "bright": 20,
-        "color": null,
-        "coloration": 1,
-        "dim": 40,
-        "attenuation": 0.5,
-        "luminosity": 0.5,
-        "saturation": 0,
-        "contrast": 0,
-        "shadows": 0,
-        "animation": {
-          "type": null,
-          "speed": 5,
-          "intensity": 5,
-          "reverse": false
-        },
-        "darkness": {
-          "min": 0,
-          "max": 1
-        }
-      },
-      "hidden": false,
-      "flags": {},
-      "_id": "7x1hyQ2HZrFFdeuB"
-    },
-    {
-      "x": 3600,
-      "y": 2450,
-      "rotation": 0,
-      "walls": true,
-      "vision": false,
-      "config": {
-        "alpha": 0.5,
-        "angle": 360,
-        "bright": 20,
-        "color": null,
-        "coloration": 1,
-        "dim": 40,
-        "attenuation": 0.5,
-        "luminosity": 0.5,
-        "saturation": 0,
-        "contrast": 0,
-        "shadows": 0,
-        "animation": {
-          "type": null,
-          "speed": 5,
-          "intensity": 5,
-          "reverse": false
-        },
-        "darkness": {
-          "min": 0,
-          "max": 1
-        }
-      },
-      "hidden": false,
-      "flags": {},
-      "_id": "nVryX0yVZWdLuxD8"
+      "_id": "MZ1uRkGjmcak5mrC"
     },
     {
       "x": 2850,
-      "y": 1500,
+      "y": 2250,
       "rotation": 0,
       "walls": true,
       "vision": false,
       "config": {
         "alpha": 0.5,
         "angle": 360,
-        "bright": 20,
+        "bright": 0,
         "color": null,
         "coloration": 1,
         "dim": 40,
@@ -1092,420 +234,24 @@
           "reverse": false
         },
         "darkness": {
-          "min": 0,
+          "min": 1,
           "max": 1
         }
       },
       "hidden": false,
       "flags": {},
-      "_id": "mauHLZFnptoikAPW"
-    },
-    {
-      "x": 2950,
-      "y": 1350,
-      "rotation": 0,
-      "walls": true,
-      "vision": false,
-      "config": {
-        "alpha": 0.5,
-        "angle": 360,
-        "bright": 20,
-        "color": null,
-        "coloration": 1,
-        "dim": 40,
-        "attenuation": 0.5,
-        "luminosity": 0.5,
-        "saturation": 0,
-        "contrast": 0,
-        "shadows": 0,
-        "animation": {
-          "type": null,
-          "speed": 5,
-          "intensity": 5,
-          "reverse": false
-        },
-        "darkness": {
-          "min": 0,
-          "max": 1
-        }
-      },
-      "hidden": false,
-      "flags": {},
-      "_id": "YBrMt0wcqzSaCa7u"
-    },
-    {
-      "x": 3150,
-      "y": 1350,
-      "rotation": 0,
-      "walls": true,
-      "vision": false,
-      "config": {
-        "alpha": 0.5,
-        "angle": 360,
-        "bright": 20,
-        "color": null,
-        "coloration": 1,
-        "dim": 40,
-        "attenuation": 0.5,
-        "luminosity": 0.5,
-        "saturation": 0,
-        "contrast": 0,
-        "shadows": 0,
-        "animation": {
-          "type": null,
-          "speed": 5,
-          "intensity": 5,
-          "reverse": false
-        },
-        "darkness": {
-          "min": 0,
-          "max": 1
-        }
-      },
-      "hidden": false,
-      "flags": {},
-      "_id": "2sHE6GrfildNBA5O"
-    },
-    {
-      "x": 3350,
-      "y": 1350,
-      "rotation": 0,
-      "walls": true,
-      "vision": false,
-      "config": {
-        "alpha": 0.5,
-        "angle": 360,
-        "bright": 20,
-        "color": null,
-        "coloration": 1,
-        "dim": 40,
-        "attenuation": 0.5,
-        "luminosity": 0.5,
-        "saturation": 0,
-        "contrast": 0,
-        "shadows": 0,
-        "animation": {
-          "type": null,
-          "speed": 5,
-          "intensity": 5,
-          "reverse": false
-        },
-        "darkness": {
-          "min": 0,
-          "max": 1
-        }
-      },
-      "hidden": false,
-      "flags": {},
-      "_id": "ce3w19JtWxTJtwXT"
-    },
-    {
-      "x": 3550,
-      "y": 1350,
-      "rotation": 0,
-      "walls": true,
-      "vision": false,
-      "config": {
-        "alpha": 0.5,
-        "angle": 360,
-        "bright": 20,
-        "color": null,
-        "coloration": 1,
-        "dim": 40,
-        "attenuation": 0.5,
-        "luminosity": 0.5,
-        "saturation": 0,
-        "contrast": 0,
-        "shadows": 0,
-        "animation": {
-          "type": null,
-          "speed": 5,
-          "intensity": 5,
-          "reverse": false
-        },
-        "darkness": {
-          "min": 0,
-          "max": 1
-        }
-      },
-      "hidden": false,
-      "flags": {},
-      "_id": "EN00kAFGcGWJvZ1K"
-    },
-    {
-      "x": 3750,
-      "y": 1350,
-      "rotation": 0,
-      "walls": true,
-      "vision": false,
-      "config": {
-        "alpha": 0.5,
-        "angle": 360,
-        "bright": 20,
-        "color": null,
-        "coloration": 1,
-        "dim": 40,
-        "attenuation": 0.5,
-        "luminosity": 0.5,
-        "saturation": 0,
-        "contrast": 0,
-        "shadows": 0,
-        "animation": {
-          "type": null,
-          "speed": 5,
-          "intensity": 5,
-          "reverse": false
-        },
-        "darkness": {
-          "min": 0,
-          "max": 1
-        }
-      },
-      "hidden": false,
-      "flags": {},
-      "_id": "mRG9ivesbS4pH19Y"
-    },
-    {
-      "x": 3950,
-      "y": 1350,
-      "rotation": 0,
-      "walls": true,
-      "vision": false,
-      "config": {
-        "alpha": 0.5,
-        "angle": 360,
-        "bright": 20,
-        "color": null,
-        "coloration": 1,
-        "dim": 40,
-        "attenuation": 0.5,
-        "luminosity": 0.5,
-        "saturation": 0,
-        "contrast": 0,
-        "shadows": 0,
-        "animation": {
-          "type": null,
-          "speed": 5,
-          "intensity": 5,
-          "reverse": false
-        },
-        "darkness": {
-          "min": 0,
-          "max": 1
-        }
-      },
-      "hidden": false,
-      "flags": {},
-      "_id": "STIeTP5JxfkarKqP"
-    },
-    {
-      "x": 4150,
-      "y": 1350,
-      "rotation": 0,
-      "walls": true,
-      "vision": false,
-      "config": {
-        "alpha": 0.5,
-        "angle": 360,
-        "bright": 20,
-        "color": null,
-        "coloration": 1,
-        "dim": 40,
-        "attenuation": 0.5,
-        "luminosity": 0.5,
-        "saturation": 0,
-        "contrast": 0,
-        "shadows": 0,
-        "animation": {
-          "type": null,
-          "speed": 5,
-          "intensity": 5,
-          "reverse": false
-        },
-        "darkness": {
-          "min": 0,
-          "max": 1
-        }
-      },
-      "hidden": false,
-      "flags": {},
-      "_id": "ksLtfLBTB79ihREH"
-    },
-    {
-      "x": 4350,
-      "y": 1350,
-      "rotation": 0,
-      "walls": true,
-      "vision": false,
-      "config": {
-        "alpha": 0.5,
-        "angle": 360,
-        "bright": 20,
-        "color": null,
-        "coloration": 1,
-        "dim": 40,
-        "attenuation": 0.5,
-        "luminosity": 0.5,
-        "saturation": 0,
-        "contrast": 0,
-        "shadows": 0,
-        "animation": {
-          "type": null,
-          "speed": 5,
-          "intensity": 5,
-          "reverse": false
-        },
-        "darkness": {
-          "min": 0,
-          "max": 1
-        }
-      },
-      "hidden": false,
-      "flags": {},
-      "_id": "upqUO4EO14YCHfO4"
-    },
-    {
-      "x": 5000,
-      "y": 1650,
-      "rotation": 0,
-      "walls": true,
-      "vision": false,
-      "config": {
-        "alpha": 0.5,
-        "angle": 360,
-        "bright": 20,
-        "color": null,
-        "coloration": 1,
-        "dim": 40,
-        "attenuation": 0.5,
-        "luminosity": 0.5,
-        "saturation": 0,
-        "contrast": 0,
-        "shadows": 0,
-        "animation": {
-          "type": null,
-          "speed": 5,
-          "intensity": 5,
-          "reverse": false
-        },
-        "darkness": {
-          "min": 0,
-          "max": 1
-        }
-      },
-      "hidden": false,
-      "flags": {},
-      "_id": "u2a5Zax7afk0AaTB"
-    },
-    {
-      "x": 5100,
-      "y": 1250,
-      "rotation": 0,
-      "walls": true,
-      "vision": false,
-      "config": {
-        "alpha": 0.5,
-        "angle": 360,
-        "bright": 20,
-        "color": null,
-        "coloration": 1,
-        "dim": 40,
-        "attenuation": 0.5,
-        "luminosity": 0.5,
-        "saturation": 0,
-        "contrast": 0,
-        "shadows": 0,
-        "animation": {
-          "type": null,
-          "speed": 5,
-          "intensity": 5,
-          "reverse": false
-        },
-        "darkness": {
-          "min": 0,
-          "max": 1
-        }
-      },
-      "hidden": false,
-      "flags": {},
-      "_id": "QNmlomTBMRTJXnIm"
-    },
-    {
-      "x": 4550,
-      "y": 1500,
-      "rotation": 0,
-      "walls": true,
-      "vision": false,
-      "config": {
-        "alpha": 0.5,
-        "angle": 360,
-        "bright": 20,
-        "color": null,
-        "coloration": 1,
-        "dim": 40,
-        "attenuation": 0.5,
-        "luminosity": 0.5,
-        "saturation": 0,
-        "contrast": 0,
-        "shadows": 0,
-        "animation": {
-          "type": null,
-          "speed": 5,
-          "intensity": 5,
-          "reverse": false
-        },
-        "darkness": {
-          "min": 0,
-          "max": 1
-        }
-      },
-      "hidden": false,
-      "flags": {},
-      "_id": "r5F6HuiSAEgZzna1"
-    },
-    {
-      "x": 2550,
-      "y": 1000,
-      "rotation": 0,
-      "walls": true,
-      "vision": false,
-      "config": {
-        "alpha": 0.5,
-        "angle": 360,
-        "bright": 20,
-        "color": null,
-        "coloration": 1,
-        "dim": 40,
-        "attenuation": 0.5,
-        "luminosity": 0.5,
-        "saturation": 0,
-        "contrast": 0,
-        "shadows": 0,
-        "animation": {
-          "type": null,
-          "speed": 5,
-          "intensity": 5,
-          "reverse": false
-        },
-        "darkness": {
-          "min": 0,
-          "max": 1
-        }
-      },
-      "hidden": false,
-      "flags": {},
-      "_id": "bQvC59xaMIGEAHUA"
+      "_id": "hIV45MyC5Cbmg7Hs"
     },
     {
       "x": 2050,
-      "y": 1350,
+      "y": 1300,
       "rotation": 0,
       "walls": true,
       "vision": false,
       "config": {
         "alpha": 0.5,
         "angle": 360,
-        "bright": 20,
+        "bright": 0,
         "color": null,
         "coloration": 1,
         "dim": 40,
@@ -1521,13 +267,46 @@
           "reverse": false
         },
         "darkness": {
-          "min": 0,
+          "min": 1,
           "max": 1
         }
       },
       "hidden": false,
       "flags": {},
-      "_id": "uV7uQF6pa6Ni7K6d"
+      "_id": "hWJGfqNcqVOR9k4J"
+    },
+    {
+      "x": 2850,
+      "y": 1500,
+      "rotation": 0,
+      "walls": true,
+      "vision": false,
+      "config": {
+        "alpha": 0.5,
+        "angle": 360,
+        "bright": 0,
+        "color": null,
+        "coloration": 1,
+        "dim": 40,
+        "attenuation": 0.5,
+        "luminosity": 0.5,
+        "saturation": 0,
+        "contrast": 0,
+        "shadows": 0,
+        "animation": {
+          "type": null,
+          "speed": 5,
+          "intensity": 5,
+          "reverse": false
+        },
+        "darkness": {
+          "min": 1,
+          "max": 1
+        }
+      },
+      "hidden": false,
+      "flags": {},
+      "_id": "EemVYhR0lbZjla92"
     },
     {
       "x": 2400,
@@ -1538,7 +317,7 @@
       "config": {
         "alpha": 0.5,
         "angle": 360,
-        "bright": 20,
+        "bright": 0,
         "color": null,
         "coloration": 1,
         "dim": 40,
@@ -1554,13 +333,1762 @@
           "reverse": false
         },
         "darkness": {
-          "min": 0,
+          "min": 1,
           "max": 1
         }
       },
       "hidden": false,
       "flags": {},
-      "_id": "N9BCOF9IDKD2bMNT"
+      "_id": "SSvNq4qUrqkWa7YO"
+    },
+    {
+      "x": 2550,
+      "y": 1000,
+      "rotation": 0,
+      "walls": true,
+      "vision": false,
+      "config": {
+        "alpha": 0.5,
+        "angle": 360,
+        "bright": 0,
+        "color": null,
+        "coloration": 1,
+        "dim": 40,
+        "attenuation": 0.5,
+        "luminosity": 0.5,
+        "saturation": 0,
+        "contrast": 0,
+        "shadows": 0,
+        "animation": {
+          "type": null,
+          "speed": 5,
+          "intensity": 5,
+          "reverse": false
+        },
+        "darkness": {
+          "min": 1,
+          "max": 1
+        }
+      },
+      "hidden": false,
+      "flags": {},
+      "_id": "ekqurVel8auHRCps"
+    },
+    {
+      "x": 2950,
+      "y": 1350,
+      "rotation": 0,
+      "walls": true,
+      "vision": false,
+      "config": {
+        "alpha": 0.5,
+        "angle": 360,
+        "bright": 0,
+        "color": null,
+        "coloration": 1,
+        "dim": 40,
+        "attenuation": 0.5,
+        "luminosity": 0.5,
+        "saturation": 0,
+        "contrast": 0,
+        "shadows": 0,
+        "animation": {
+          "type": null,
+          "speed": 5,
+          "intensity": 5,
+          "reverse": false
+        },
+        "darkness": {
+          "min": 1,
+          "max": 1
+        }
+      },
+      "hidden": false,
+      "flags": {},
+      "_id": "bAKn4zIEGSjzmZp4"
+    },
+    {
+      "x": 3150,
+      "y": 1350,
+      "rotation": 0,
+      "walls": true,
+      "vision": false,
+      "config": {
+        "alpha": 0.5,
+        "angle": 360,
+        "bright": 0,
+        "color": null,
+        "coloration": 1,
+        "dim": 40,
+        "attenuation": 0.5,
+        "luminosity": 0.5,
+        "saturation": 0,
+        "contrast": 0,
+        "shadows": 0,
+        "animation": {
+          "type": null,
+          "speed": 5,
+          "intensity": 5,
+          "reverse": false
+        },
+        "darkness": {
+          "min": 1,
+          "max": 1
+        }
+      },
+      "hidden": false,
+      "flags": {},
+      "_id": "gLHHYSD9YL4k3vUG"
+    },
+    {
+      "x": 3350,
+      "y": 1350,
+      "rotation": 0,
+      "walls": true,
+      "vision": false,
+      "config": {
+        "alpha": 0.5,
+        "angle": 360,
+        "bright": 0,
+        "color": null,
+        "coloration": 1,
+        "dim": 40,
+        "attenuation": 0.5,
+        "luminosity": 0.5,
+        "saturation": 0,
+        "contrast": 0,
+        "shadows": 0,
+        "animation": {
+          "type": null,
+          "speed": 5,
+          "intensity": 5,
+          "reverse": false
+        },
+        "darkness": {
+          "min": 1,
+          "max": 1
+        }
+      },
+      "hidden": false,
+      "flags": {},
+      "_id": "eSrwxa8E1Oh2v8Gb"
+    },
+    {
+      "x": 3550,
+      "y": 1350,
+      "rotation": 0,
+      "walls": true,
+      "vision": false,
+      "config": {
+        "alpha": 0.5,
+        "angle": 360,
+        "bright": 0,
+        "color": null,
+        "coloration": 1,
+        "dim": 40,
+        "attenuation": 0.5,
+        "luminosity": 0.5,
+        "saturation": 0,
+        "contrast": 0,
+        "shadows": 0,
+        "animation": {
+          "type": null,
+          "speed": 5,
+          "intensity": 5,
+          "reverse": false
+        },
+        "darkness": {
+          "min": 1,
+          "max": 1
+        }
+      },
+      "hidden": false,
+      "flags": {},
+      "_id": "ZmscdumSZODimZgw"
+    },
+    {
+      "x": 3750,
+      "y": 1350,
+      "rotation": 0,
+      "walls": true,
+      "vision": false,
+      "config": {
+        "alpha": 0.5,
+        "angle": 360,
+        "bright": 0,
+        "color": null,
+        "coloration": 1,
+        "dim": 40,
+        "attenuation": 0.5,
+        "luminosity": 0.5,
+        "saturation": 0,
+        "contrast": 0,
+        "shadows": 0,
+        "animation": {
+          "type": null,
+          "speed": 5,
+          "intensity": 5,
+          "reverse": false
+        },
+        "darkness": {
+          "min": 1,
+          "max": 1
+        }
+      },
+      "hidden": false,
+      "flags": {},
+      "_id": "imff35hqqQKqRiZi"
+    },
+    {
+      "x": 3950,
+      "y": 1350,
+      "rotation": 0,
+      "walls": true,
+      "vision": false,
+      "config": {
+        "alpha": 0.5,
+        "angle": 360,
+        "bright": 0,
+        "color": null,
+        "coloration": 1,
+        "dim": 40,
+        "attenuation": 0.5,
+        "luminosity": 0.5,
+        "saturation": 0,
+        "contrast": 0,
+        "shadows": 0,
+        "animation": {
+          "type": null,
+          "speed": 5,
+          "intensity": 5,
+          "reverse": false
+        },
+        "darkness": {
+          "min": 1,
+          "max": 1
+        }
+      },
+      "hidden": false,
+      "flags": {},
+      "_id": "HrNjmANWK9CisHrc"
+    },
+    {
+      "x": 4150,
+      "y": 1350,
+      "rotation": 0,
+      "walls": true,
+      "vision": false,
+      "config": {
+        "alpha": 0.5,
+        "angle": 360,
+        "bright": 0,
+        "color": null,
+        "coloration": 1,
+        "dim": 40,
+        "attenuation": 0.5,
+        "luminosity": 0.5,
+        "saturation": 0,
+        "contrast": 0,
+        "shadows": 0,
+        "animation": {
+          "type": null,
+          "speed": 5,
+          "intensity": 5,
+          "reverse": false
+        },
+        "darkness": {
+          "min": 1,
+          "max": 1
+        }
+      },
+      "hidden": false,
+      "flags": {},
+      "_id": "6K95YnQvanWgsqOB"
+    },
+    {
+      "x": 4350,
+      "y": 1350,
+      "rotation": 0,
+      "walls": true,
+      "vision": false,
+      "config": {
+        "alpha": 0.5,
+        "angle": 360,
+        "bright": 0,
+        "color": null,
+        "coloration": 1,
+        "dim": 40,
+        "attenuation": 0.5,
+        "luminosity": 0.5,
+        "saturation": 0,
+        "contrast": 0,
+        "shadows": 0,
+        "animation": {
+          "type": null,
+          "speed": 5,
+          "intensity": 5,
+          "reverse": false
+        },
+        "darkness": {
+          "min": 1,
+          "max": 1
+        }
+      },
+      "hidden": false,
+      "flags": {},
+      "_id": "Fnlj72uhtfSIWtoA"
+    },
+    {
+      "x": 4550,
+      "y": 1500,
+      "rotation": 0,
+      "walls": true,
+      "vision": false,
+      "config": {
+        "alpha": 0.5,
+        "angle": 360,
+        "bright": 0,
+        "color": null,
+        "coloration": 1,
+        "dim": 40,
+        "attenuation": 0.5,
+        "luminosity": 0.5,
+        "saturation": 0,
+        "contrast": 0,
+        "shadows": 0,
+        "animation": {
+          "type": null,
+          "speed": 5,
+          "intensity": 5,
+          "reverse": false
+        },
+        "darkness": {
+          "min": 1,
+          "max": 1
+        }
+      },
+      "hidden": false,
+      "flags": {},
+      "_id": "OMbCwcjOXEh0h6OI"
+    },
+    {
+      "x": 5000,
+      "y": 1650,
+      "rotation": 0,
+      "walls": true,
+      "vision": false,
+      "config": {
+        "alpha": 0.5,
+        "angle": 360,
+        "bright": 0,
+        "color": null,
+        "coloration": 1,
+        "dim": 40,
+        "attenuation": 0.5,
+        "luminosity": 0.5,
+        "saturation": 0,
+        "contrast": 0,
+        "shadows": 0,
+        "animation": {
+          "type": null,
+          "speed": 5,
+          "intensity": 5,
+          "reverse": false
+        },
+        "darkness": {
+          "min": 1,
+          "max": 1
+        }
+      },
+      "hidden": false,
+      "flags": {},
+      "_id": "PnC4PwyIWl2fkZPB"
+    },
+    {
+      "x": 5100,
+      "y": 1250,
+      "rotation": 0,
+      "walls": true,
+      "vision": false,
+      "config": {
+        "alpha": 0.5,
+        "angle": 360,
+        "bright": 0,
+        "color": null,
+        "coloration": 1,
+        "dim": 40,
+        "attenuation": 0.5,
+        "luminosity": 0.5,
+        "saturation": 0,
+        "contrast": 0,
+        "shadows": 0,
+        "animation": {
+          "type": null,
+          "speed": 5,
+          "intensity": 5,
+          "reverse": false
+        },
+        "darkness": {
+          "min": 1,
+          "max": 1
+        }
+      },
+      "hidden": false,
+      "flags": {},
+      "_id": "tpEWShTkiHIEpMDx"
+    },
+    {
+      "x": 4550,
+      "y": 1850,
+      "rotation": 0,
+      "walls": true,
+      "vision": false,
+      "config": {
+        "alpha": 0.5,
+        "angle": 360,
+        "bright": 0,
+        "color": null,
+        "coloration": 1,
+        "dim": 40,
+        "attenuation": 0.5,
+        "luminosity": 0.5,
+        "saturation": 0,
+        "contrast": 0,
+        "shadows": 0,
+        "animation": {
+          "type": null,
+          "speed": 5,
+          "intensity": 5,
+          "reverse": false
+        },
+        "darkness": {
+          "min": 1,
+          "max": 1
+        }
+      },
+      "hidden": false,
+      "flags": {},
+      "_id": "NBOpnJMzrYkGiIrZ"
+    },
+    {
+      "x": 4550,
+      "y": 2150,
+      "rotation": 0,
+      "walls": true,
+      "vision": false,
+      "config": {
+        "alpha": 0.5,
+        "angle": 360,
+        "bright": 0,
+        "color": null,
+        "coloration": 1,
+        "dim": 40,
+        "attenuation": 0.5,
+        "luminosity": 0.5,
+        "saturation": 0,
+        "contrast": 0,
+        "shadows": 0,
+        "animation": {
+          "type": null,
+          "speed": 5,
+          "intensity": 5,
+          "reverse": false
+        },
+        "darkness": {
+          "min": 1,
+          "max": 1
+        }
+      },
+      "hidden": false,
+      "flags": {},
+      "_id": "JFyBJtMvL2XsYKkO"
+    },
+    {
+      "x": 5000,
+      "y": 2250,
+      "rotation": 0,
+      "walls": true,
+      "vision": false,
+      "config": {
+        "alpha": 0.5,
+        "angle": 360,
+        "bright": 0,
+        "color": null,
+        "coloration": 1,
+        "dim": 40,
+        "attenuation": 0.5,
+        "luminosity": 0.5,
+        "saturation": 0,
+        "contrast": 0,
+        "shadows": 0,
+        "animation": {
+          "type": null,
+          "speed": 5,
+          "intensity": 5,
+          "reverse": false
+        },
+        "darkness": {
+          "min": 1,
+          "max": 1
+        }
+      },
+      "hidden": false,
+      "flags": {},
+      "_id": "vjcyHlvuEW8SH9UE"
+    },
+    {
+      "x": 5450,
+      "y": 1800,
+      "rotation": 0,
+      "walls": true,
+      "vision": false,
+      "config": {
+        "alpha": 0.5,
+        "angle": 360,
+        "bright": 0,
+        "color": null,
+        "coloration": 1,
+        "dim": 40,
+        "attenuation": 0.5,
+        "luminosity": 0.5,
+        "saturation": 0,
+        "contrast": 0,
+        "shadows": 0,
+        "animation": {
+          "type": null,
+          "speed": 5,
+          "intensity": 5,
+          "reverse": false
+        },
+        "darkness": {
+          "min": 1,
+          "max": 1
+        }
+      },
+      "hidden": false,
+      "flags": {},
+      "_id": "8rZuRdcWhTxe8B8D"
+    },
+    {
+      "x": 5000,
+      "y": 1750,
+      "rotation": 0,
+      "walls": true,
+      "vision": false,
+      "config": {
+        "alpha": 0.5,
+        "angle": 360,
+        "bright": 0,
+        "color": null,
+        "coloration": 1,
+        "dim": 40,
+        "attenuation": 0.5,
+        "luminosity": 0.5,
+        "saturation": 0,
+        "contrast": 0,
+        "shadows": 0,
+        "animation": {
+          "type": null,
+          "speed": 5,
+          "intensity": 5,
+          "reverse": false
+        },
+        "darkness": {
+          "min": 1,
+          "max": 1
+        }
+      },
+      "hidden": false,
+      "flags": {},
+      "_id": "GjyFhlIc1bQGvzPk"
+    },
+    {
+      "x": 5450,
+      "y": 2200,
+      "rotation": 0,
+      "walls": true,
+      "vision": false,
+      "config": {
+        "alpha": 0.5,
+        "angle": 360,
+        "bright": 0,
+        "color": null,
+        "coloration": 1,
+        "dim": 40,
+        "attenuation": 0.5,
+        "luminosity": 0.5,
+        "saturation": 0,
+        "contrast": 0,
+        "shadows": 0,
+        "animation": {
+          "type": null,
+          "speed": 5,
+          "intensity": 5,
+          "reverse": false
+        },
+        "darkness": {
+          "min": 1,
+          "max": 1
+        }
+      },
+      "hidden": false,
+      "flags": {},
+      "_id": "gH92T1NzfGbV0L9M"
+    },
+    {
+      "x": 4550,
+      "y": 2550,
+      "rotation": 0,
+      "walls": true,
+      "vision": false,
+      "config": {
+        "alpha": 0.5,
+        "angle": 360,
+        "bright": 0,
+        "color": null,
+        "coloration": 1,
+        "dim": 40,
+        "attenuation": 0.5,
+        "luminosity": 0.5,
+        "saturation": 0,
+        "contrast": 0,
+        "shadows": 0,
+        "animation": {
+          "type": null,
+          "speed": 5,
+          "intensity": 5,
+          "reverse": false
+        },
+        "darkness": {
+          "min": 1,
+          "max": 1
+        }
+      },
+      "hidden": false,
+      "flags": {},
+      "_id": "zcC7Eb8lwQ1WRKr4"
+    },
+    {
+      "x": 5050,
+      "y": 2350,
+      "rotation": 0,
+      "walls": true,
+      "vision": false,
+      "config": {
+        "alpha": 0.5,
+        "angle": 360,
+        "bright": 0,
+        "color": null,
+        "coloration": 1,
+        "dim": 40,
+        "attenuation": 0.5,
+        "luminosity": 0.5,
+        "saturation": 0,
+        "contrast": 0,
+        "shadows": 0,
+        "animation": {
+          "type": null,
+          "speed": 5,
+          "intensity": 5,
+          "reverse": false
+        },
+        "darkness": {
+          "min": 1,
+          "max": 1
+        }
+      },
+      "hidden": false,
+      "flags": {},
+      "_id": "qCUrQMQHhqDowsOW"
+    },
+    {
+      "x": 4950,
+      "y": 2850,
+      "rotation": 0,
+      "walls": true,
+      "vision": false,
+      "config": {
+        "alpha": 0.5,
+        "angle": 360,
+        "bright": 0,
+        "color": null,
+        "coloration": 1,
+        "dim": 40,
+        "attenuation": 0.5,
+        "luminosity": 0.5,
+        "saturation": 0,
+        "contrast": 0,
+        "shadows": 0,
+        "animation": {
+          "type": null,
+          "speed": 5,
+          "intensity": 5,
+          "reverse": false
+        },
+        "darkness": {
+          "min": 1,
+          "max": 1
+        }
+      },
+      "hidden": false,
+      "flags": {},
+      "_id": "i7DoqHCQyaqWRgKn"
+    },
+    {
+      "x": 4450,
+      "y": 2650,
+      "rotation": 0,
+      "walls": true,
+      "vision": false,
+      "config": {
+        "alpha": 0.5,
+        "angle": 360,
+        "bright": 0,
+        "color": null,
+        "coloration": 1,
+        "dim": 40,
+        "attenuation": 0.5,
+        "luminosity": 0.5,
+        "saturation": 0,
+        "contrast": 0,
+        "shadows": 0,
+        "animation": {
+          "type": null,
+          "speed": 5,
+          "intensity": 5,
+          "reverse": false
+        },
+        "darkness": {
+          "min": 1,
+          "max": 1
+        }
+      },
+      "hidden": false,
+      "flags": {},
+      "_id": "OFQiVGWASBrg4KTC"
+    },
+    {
+      "x": 4250,
+      "y": 2650,
+      "rotation": 0,
+      "walls": true,
+      "vision": false,
+      "config": {
+        "alpha": 0.5,
+        "angle": 360,
+        "bright": 0,
+        "color": null,
+        "coloration": 1,
+        "dim": 40,
+        "attenuation": 0.5,
+        "luminosity": 0.5,
+        "saturation": 0,
+        "contrast": 0,
+        "shadows": 0,
+        "animation": {
+          "type": null,
+          "speed": 5,
+          "intensity": 5,
+          "reverse": false
+        },
+        "darkness": {
+          "min": 1,
+          "max": 1
+        }
+      },
+      "hidden": false,
+      "flags": {},
+      "_id": "C2UzaL0JzYAOKEC6"
+    },
+    {
+      "x": 4050,
+      "y": 2650,
+      "rotation": 0,
+      "walls": true,
+      "vision": false,
+      "config": {
+        "alpha": 0.5,
+        "angle": 360,
+        "bright": 0,
+        "color": null,
+        "coloration": 1,
+        "dim": 40,
+        "attenuation": 0.5,
+        "luminosity": 0.5,
+        "saturation": 0,
+        "contrast": 0,
+        "shadows": 0,
+        "animation": {
+          "type": null,
+          "speed": 5,
+          "intensity": 5,
+          "reverse": false
+        },
+        "darkness": {
+          "min": 1,
+          "max": 1
+        }
+      },
+      "hidden": false,
+      "flags": {},
+      "_id": "VcYyMaz6isxPRXzg"
+    },
+    {
+      "x": 3850,
+      "y": 2650,
+      "rotation": 0,
+      "walls": true,
+      "vision": false,
+      "config": {
+        "alpha": 0.5,
+        "angle": 360,
+        "bright": 0,
+        "color": null,
+        "coloration": 1,
+        "dim": 40,
+        "attenuation": 0.5,
+        "luminosity": 0.5,
+        "saturation": 0,
+        "contrast": 0,
+        "shadows": 0,
+        "animation": {
+          "type": null,
+          "speed": 5,
+          "intensity": 5,
+          "reverse": false
+        },
+        "darkness": {
+          "min": 1,
+          "max": 1
+        }
+      },
+      "hidden": false,
+      "flags": {},
+      "_id": "hDTUtYOP6HLH7Iyn"
+    },
+    {
+      "x": 3650,
+      "y": 2650,
+      "rotation": 0,
+      "walls": true,
+      "vision": false,
+      "config": {
+        "alpha": 0.5,
+        "angle": 360,
+        "bright": 0,
+        "color": null,
+        "coloration": 1,
+        "dim": 40,
+        "attenuation": 0.5,
+        "luminosity": 0.5,
+        "saturation": 0,
+        "contrast": 0,
+        "shadows": 0,
+        "animation": {
+          "type": null,
+          "speed": 5,
+          "intensity": 5,
+          "reverse": false
+        },
+        "darkness": {
+          "min": 1,
+          "max": 1
+        }
+      },
+      "hidden": false,
+      "flags": {},
+      "_id": "ElgQoD5ABN5r6KJ8"
+    },
+    {
+      "x": 3450,
+      "y": 2650,
+      "rotation": 0,
+      "walls": true,
+      "vision": false,
+      "config": {
+        "alpha": 0.5,
+        "angle": 360,
+        "bright": 0,
+        "color": null,
+        "coloration": 1,
+        "dim": 40,
+        "attenuation": 0.5,
+        "luminosity": 0.5,
+        "saturation": 0,
+        "contrast": 0,
+        "shadows": 0,
+        "animation": {
+          "type": null,
+          "speed": 5,
+          "intensity": 5,
+          "reverse": false
+        },
+        "darkness": {
+          "min": 1,
+          "max": 1
+        }
+      },
+      "hidden": false,
+      "flags": {},
+      "_id": "9Ytt88iVF1qX2ZV0"
+    },
+    {
+      "x": 3250,
+      "y": 2650,
+      "rotation": 0,
+      "walls": true,
+      "vision": false,
+      "config": {
+        "alpha": 0.5,
+        "angle": 360,
+        "bright": 0,
+        "color": null,
+        "coloration": 1,
+        "dim": 40,
+        "attenuation": 0.5,
+        "luminosity": 0.5,
+        "saturation": 0,
+        "contrast": 0,
+        "shadows": 0,
+        "animation": {
+          "type": null,
+          "speed": 5,
+          "intensity": 5,
+          "reverse": false
+        },
+        "darkness": {
+          "min": 1,
+          "max": 1
+        }
+      },
+      "hidden": false,
+      "flags": {},
+      "_id": "6Mv5pLiUkXNTATiO"
+    },
+    {
+      "x": 3050,
+      "y": 2650,
+      "rotation": 0,
+      "walls": true,
+      "vision": false,
+      "config": {
+        "alpha": 0.5,
+        "angle": 360,
+        "bright": 0,
+        "color": null,
+        "coloration": 1,
+        "dim": 40,
+        "attenuation": 0.5,
+        "luminosity": 0.5,
+        "saturation": 0,
+        "contrast": 0,
+        "shadows": 0,
+        "animation": {
+          "type": null,
+          "speed": 5,
+          "intensity": 5,
+          "reverse": false
+        },
+        "darkness": {
+          "min": 1,
+          "max": 1
+        }
+      },
+      "hidden": false,
+      "flags": {},
+      "_id": "6NflBuQ8gckq7a9J"
+    },
+    {
+      "x": 3600,
+      "y": 2450,
+      "rotation": 0,
+      "walls": true,
+      "vision": false,
+      "config": {
+        "alpha": 0.5,
+        "angle": 360,
+        "bright": 0,
+        "color": null,
+        "coloration": 1,
+        "dim": 40,
+        "attenuation": 0.5,
+        "luminosity": 0.5,
+        "saturation": 0,
+        "contrast": 0,
+        "shadows": 0,
+        "animation": {
+          "type": null,
+          "speed": 5,
+          "intensity": 5,
+          "reverse": false
+        },
+        "darkness": {
+          "min": 1,
+          "max": 1
+        }
+      },
+      "hidden": false,
+      "flags": {},
+      "_id": "zHpgApneuTT1AdnU"
+    },
+    {
+      "x": 3600,
+      "y": 2350,
+      "rotation": 0,
+      "walls": true,
+      "vision": false,
+      "config": {
+        "alpha": 0.5,
+        "angle": 360,
+        "bright": 0,
+        "color": null,
+        "coloration": 1,
+        "dim": 40,
+        "attenuation": 0.5,
+        "luminosity": 0.5,
+        "saturation": 0,
+        "contrast": 0,
+        "shadows": 0,
+        "animation": {
+          "type": null,
+          "speed": 5,
+          "intensity": 5,
+          "reverse": false
+        },
+        "darkness": {
+          "min": 1,
+          "max": 1
+        }
+      },
+      "hidden": false,
+      "flags": {},
+      "_id": "ks9HwHmrjXTwwify"
+    },
+    {
+      "x": 3800,
+      "y": 2350,
+      "rotation": 0,
+      "walls": true,
+      "vision": false,
+      "config": {
+        "alpha": 0.5,
+        "angle": 360,
+        "bright": 0,
+        "color": null,
+        "coloration": 1,
+        "dim": 40,
+        "attenuation": 0.5,
+        "luminosity": 0.5,
+        "saturation": 0,
+        "contrast": 0,
+        "shadows": 0,
+        "animation": {
+          "type": null,
+          "speed": 5,
+          "intensity": 5,
+          "reverse": false
+        },
+        "darkness": {
+          "min": 1,
+          "max": 1
+        }
+      },
+      "hidden": false,
+      "flags": {},
+      "_id": "W7ymULroCZbQkcHN"
+    },
+    {
+      "x": 3800,
+      "y": 2450,
+      "rotation": 0,
+      "walls": true,
+      "vision": false,
+      "config": {
+        "alpha": 0.5,
+        "angle": 360,
+        "bright": 0,
+        "color": null,
+        "coloration": 1,
+        "dim": 40,
+        "attenuation": 0.5,
+        "luminosity": 0.5,
+        "saturation": 0,
+        "contrast": 0,
+        "shadows": 0,
+        "animation": {
+          "type": null,
+          "speed": 5,
+          "intensity": 5,
+          "reverse": false
+        },
+        "darkness": {
+          "min": 1,
+          "max": 1
+        }
+      },
+      "hidden": false,
+      "flags": {},
+      "_id": "90aXAplPoy7ktwDF"
+    },
+    {
+      "x": 4250,
+      "y": 2350,
+      "rotation": 0,
+      "walls": true,
+      "vision": false,
+      "config": {
+        "alpha": 0.5,
+        "angle": 360,
+        "bright": 0,
+        "color": null,
+        "coloration": 1,
+        "dim": 40,
+        "attenuation": 0.5,
+        "luminosity": 0.5,
+        "saturation": 0,
+        "contrast": 0,
+        "shadows": 0,
+        "animation": {
+          "type": null,
+          "speed": 5,
+          "intensity": 5,
+          "reverse": false
+        },
+        "darkness": {
+          "min": 1,
+          "max": 1
+        }
+      },
+      "hidden": false,
+      "flags": {},
+      "_id": "dK6EYMo5hprgeWS2"
+    },
+    {
+      "x": 4350,
+      "y": 2450,
+      "rotation": 0,
+      "walls": true,
+      "vision": false,
+      "config": {
+        "alpha": 0.5,
+        "angle": 360,
+        "bright": 0,
+        "color": null,
+        "coloration": 1,
+        "dim": 40,
+        "attenuation": 0.5,
+        "luminosity": 0.5,
+        "saturation": 0,
+        "contrast": 0,
+        "shadows": 0,
+        "animation": {
+          "type": null,
+          "speed": 5,
+          "intensity": 5,
+          "reverse": false
+        },
+        "darkness": {
+          "min": 1,
+          "max": 1
+        }
+      },
+      "hidden": false,
+      "flags": {},
+      "_id": "gMKWe2uG7VLZugHA"
+    },
+    {
+      "x": 3050,
+      "y": 2450,
+      "rotation": 0,
+      "walls": true,
+      "vision": false,
+      "config": {
+        "alpha": 0.5,
+        "angle": 360,
+        "bright": 0,
+        "color": null,
+        "coloration": 1,
+        "dim": 40,
+        "attenuation": 0.5,
+        "luminosity": 0.5,
+        "saturation": 0,
+        "contrast": 0,
+        "shadows": 0,
+        "animation": {
+          "type": null,
+          "speed": 5,
+          "intensity": 5,
+          "reverse": false
+        },
+        "darkness": {
+          "min": 1,
+          "max": 1
+        }
+      },
+      "hidden": false,
+      "flags": {},
+      "_id": "W0eD1JeES6eErdu4"
+    },
+    {
+      "x": 3150,
+      "y": 2350,
+      "rotation": 0,
+      "walls": true,
+      "vision": false,
+      "config": {
+        "alpha": 0.5,
+        "angle": 360,
+        "bright": 0,
+        "color": null,
+        "coloration": 1,
+        "dim": 40,
+        "attenuation": 0.5,
+        "luminosity": 0.5,
+        "saturation": 0,
+        "contrast": 0,
+        "shadows": 0,
+        "animation": {
+          "type": null,
+          "speed": 5,
+          "intensity": 5,
+          "reverse": false
+        },
+        "darkness": {
+          "min": 1,
+          "max": 1
+        }
+      },
+      "hidden": false,
+      "flags": {},
+      "_id": "rAqNdvogKwiJY5Wt"
+    },
+    {
+      "x": 3050,
+      "y": 2000,
+      "rotation": 0,
+      "walls": true,
+      "vision": false,
+      "config": {
+        "alpha": 0.5,
+        "angle": 360,
+        "bright": 0,
+        "color": null,
+        "coloration": 1,
+        "dim": 40,
+        "attenuation": 0.5,
+        "luminosity": 0.5,
+        "saturation": 0,
+        "contrast": 0,
+        "shadows": 0,
+        "animation": {
+          "type": null,
+          "speed": 5,
+          "intensity": 5,
+          "reverse": false
+        },
+        "darkness": {
+          "min": 1,
+          "max": 1
+        }
+      },
+      "hidden": false,
+      "flags": {},
+      "_id": "6q3nWgsEJLnAQqFE"
+    },
+    {
+      "x": 1900,
+      "y": 2500,
+      "rotation": 0,
+      "walls": true,
+      "vision": false,
+      "config": {
+        "alpha": 0.5,
+        "angle": 360,
+        "bright": 0,
+        "color": null,
+        "coloration": 1,
+        "dim": 40,
+        "attenuation": 0.5,
+        "luminosity": 0.5,
+        "saturation": 0,
+        "contrast": 0,
+        "shadows": 0,
+        "animation": {
+          "type": null,
+          "speed": 5,
+          "intensity": 5,
+          "reverse": false
+        },
+        "darkness": {
+          "min": 1,
+          "max": 1
+        }
+      },
+      "hidden": false,
+      "flags": {},
+      "_id": "CWagd02dBaivuffG"
+    },
+    {
+      "x": 2300,
+      "y": 2900,
+      "rotation": 0,
+      "walls": true,
+      "vision": false,
+      "config": {
+        "alpha": 0.5,
+        "angle": 360,
+        "bright": 0,
+        "color": null,
+        "coloration": 1,
+        "dim": 40,
+        "attenuation": 0.5,
+        "luminosity": 0.5,
+        "saturation": 0,
+        "contrast": 0,
+        "shadows": 0,
+        "animation": {
+          "type": null,
+          "speed": 5,
+          "intensity": 5,
+          "reverse": false
+        },
+        "darkness": {
+          "min": 1,
+          "max": 1
+        }
+      },
+      "hidden": false,
+      "flags": {},
+      "_id": "5CsQhM2FffOESu8m"
+    },
+    {
+      "x": 2650,
+      "y": 2550,
+      "rotation": 0,
+      "walls": true,
+      "vision": false,
+      "config": {
+        "alpha": 0.5,
+        "angle": 360,
+        "bright": 0,
+        "color": null,
+        "coloration": 1,
+        "dim": 40,
+        "attenuation": 0.5,
+        "luminosity": 0.5,
+        "saturation": 0,
+        "contrast": 0,
+        "shadows": 0,
+        "animation": {
+          "type": null,
+          "speed": 5,
+          "intensity": 5,
+          "reverse": false
+        },
+        "darkness": {
+          "min": 1,
+          "max": 1
+        }
+      },
+      "hidden": false,
+      "flags": {},
+      "_id": "bXHcdduna9mRWPTR"
+    },
+    {
+      "x": 2850,
+      "y": 2500,
+      "rotation": 0,
+      "walls": true,
+      "vision": false,
+      "config": {
+        "alpha": 0.5,
+        "angle": 360,
+        "bright": 0,
+        "color": null,
+        "coloration": 1,
+        "dim": 40,
+        "attenuation": 0.5,
+        "luminosity": 0.5,
+        "saturation": 0,
+        "contrast": 0,
+        "shadows": 0,
+        "animation": {
+          "type": null,
+          "speed": 5,
+          "intensity": 5,
+          "reverse": false
+        },
+        "darkness": {
+          "min": 1,
+          "max": 1
+        }
+      },
+      "hidden": false,
+      "flags": {},
+      "_id": "imWpdZSXFHFtdF1K"
+    },
+    {
+      "x": 2800,
+      "y": 3150,
+      "rotation": 0,
+      "walls": true,
+      "vision": false,
+      "config": {
+        "alpha": 0.5,
+        "angle": 360,
+        "bright": 0,
+        "color": null,
+        "coloration": 1,
+        "dim": 40,
+        "attenuation": 0.5,
+        "luminosity": 0.5,
+        "saturation": 0,
+        "contrast": 0,
+        "shadows": 0,
+        "animation": {
+          "type": null,
+          "speed": 5,
+          "intensity": 5,
+          "reverse": false
+        },
+        "darkness": {
+          "min": 1,
+          "max": 1
+        }
+      },
+      "hidden": false,
+      "flags": {},
+      "_id": "sBVULy6YzKfpwrYa"
+    },
+    {
+      "x": 3050,
+      "y": 1550,
+      "rotation": 0,
+      "walls": true,
+      "vision": false,
+      "config": {
+        "alpha": 0.5,
+        "angle": 360,
+        "bright": 0,
+        "color": null,
+        "coloration": 1,
+        "dim": 40,
+        "attenuation": 0.5,
+        "luminosity": 0.5,
+        "saturation": 0,
+        "contrast": 0,
+        "shadows": 0,
+        "animation": {
+          "type": null,
+          "speed": 5,
+          "intensity": 5,
+          "reverse": false
+        },
+        "darkness": {
+          "min": 1,
+          "max": 1
+        }
+      },
+      "hidden": false,
+      "flags": {},
+      "_id": "5bYZgLGKFWRnAFlK"
+    },
+    {
+      "x": 3150,
+      "y": 1650,
+      "rotation": 0,
+      "walls": true,
+      "vision": false,
+      "config": {
+        "alpha": 0.5,
+        "angle": 360,
+        "bright": 0,
+        "color": null,
+        "coloration": 1,
+        "dim": 40,
+        "attenuation": 0.5,
+        "luminosity": 0.5,
+        "saturation": 0,
+        "contrast": 0,
+        "shadows": 0,
+        "animation": {
+          "type": null,
+          "speed": 5,
+          "intensity": 5,
+          "reverse": false
+        },
+        "darkness": {
+          "min": 1,
+          "max": 1
+        }
+      },
+      "hidden": false,
+      "flags": {},
+      "_id": "4lpKToYLDRsgAOyX"
+    },
+    {
+      "x": 3600,
+      "y": 1550,
+      "rotation": 0,
+      "walls": true,
+      "vision": false,
+      "config": {
+        "alpha": 0.5,
+        "angle": 360,
+        "bright": 0,
+        "color": null,
+        "coloration": 1,
+        "dim": 40,
+        "attenuation": 0.5,
+        "luminosity": 0.5,
+        "saturation": 0,
+        "contrast": 0,
+        "shadows": 0,
+        "animation": {
+          "type": null,
+          "speed": 5,
+          "intensity": 5,
+          "reverse": false
+        },
+        "darkness": {
+          "min": 1,
+          "max": 1
+        }
+      },
+      "hidden": false,
+      "flags": {},
+      "_id": "Gls0Vv5XbzDPD9cw"
+    },
+    {
+      "x": 3600,
+      "y": 1650,
+      "rotation": 0,
+      "walls": true,
+      "vision": false,
+      "config": {
+        "alpha": 0.5,
+        "angle": 360,
+        "bright": 0,
+        "color": null,
+        "coloration": 1,
+        "dim": 40,
+        "attenuation": 0.5,
+        "luminosity": 0.5,
+        "saturation": 0,
+        "contrast": 0,
+        "shadows": 0,
+        "animation": {
+          "type": null,
+          "speed": 5,
+          "intensity": 5,
+          "reverse": false
+        },
+        "darkness": {
+          "min": 1,
+          "max": 1
+        }
+      },
+      "hidden": false,
+      "flags": {},
+      "_id": "rLUGduuDDgNrpzUn"
+    },
+    {
+      "x": 3800,
+      "y": 1650,
+      "rotation": 0,
+      "walls": true,
+      "vision": false,
+      "config": {
+        "alpha": 0.5,
+        "angle": 360,
+        "bright": 0,
+        "color": null,
+        "coloration": 1,
+        "dim": 40,
+        "attenuation": 0.5,
+        "luminosity": 0.5,
+        "saturation": 0,
+        "contrast": 0,
+        "shadows": 0,
+        "animation": {
+          "type": null,
+          "speed": 5,
+          "intensity": 5,
+          "reverse": false
+        },
+        "darkness": {
+          "min": 1,
+          "max": 1
+        }
+      },
+      "hidden": false,
+      "flags": {},
+      "_id": "82Jc23j9oyvYcxkr"
+    },
+    {
+      "x": 3800,
+      "y": 1550,
+      "rotation": 0,
+      "walls": true,
+      "vision": false,
+      "config": {
+        "alpha": 0.5,
+        "angle": 360,
+        "bright": 0,
+        "color": null,
+        "coloration": 1,
+        "dim": 40,
+        "attenuation": 0.5,
+        "luminosity": 0.5,
+        "saturation": 0,
+        "contrast": 0,
+        "shadows": 0,
+        "animation": {
+          "type": null,
+          "speed": 5,
+          "intensity": 5,
+          "reverse": false
+        },
+        "darkness": {
+          "min": 1,
+          "max": 1
+        }
+      },
+      "hidden": false,
+      "flags": {},
+      "_id": "ht8ownRSS3T3X868"
+    },
+    {
+      "x": 4250,
+      "y": 1650,
+      "rotation": 0,
+      "walls": true,
+      "vision": false,
+      "config": {
+        "alpha": 0.5,
+        "angle": 360,
+        "bright": 0,
+        "color": null,
+        "coloration": 1,
+        "dim": 40,
+        "attenuation": 0.5,
+        "luminosity": 0.5,
+        "saturation": 0,
+        "contrast": 0,
+        "shadows": 0,
+        "animation": {
+          "type": null,
+          "speed": 5,
+          "intensity": 5,
+          "reverse": false
+        },
+        "darkness": {
+          "min": 1,
+          "max": 1
+        }
+      },
+      "hidden": false,
+      "flags": {},
+      "_id": "eJW3psWo8LFPUA9F"
+    },
+    {
+      "x": 4350,
+      "y": 1550,
+      "rotation": 0,
+      "walls": true,
+      "vision": false,
+      "config": {
+        "alpha": 0.5,
+        "angle": 360,
+        "bright": 0,
+        "color": null,
+        "coloration": 1,
+        "dim": 40,
+        "attenuation": 0.5,
+        "luminosity": 0.5,
+        "saturation": 0,
+        "contrast": 0,
+        "shadows": 0,
+        "animation": {
+          "type": null,
+          "speed": 5,
+          "intensity": 5,
+          "reverse": false
+        },
+        "darkness": {
+          "min": 1,
+          "max": 1
+        }
+      },
+      "hidden": false,
+      "flags": {},
+      "_id": "oBq7oKCo4k4744XO"
+    },
+    {
+      "x": 4350,
+      "y": 2000,
+      "rotation": 0,
+      "walls": true,
+      "vision": false,
+      "config": {
+        "alpha": 0.5,
+        "angle": 360,
+        "bright": 0,
+        "color": null,
+        "coloration": 1,
+        "dim": 40,
+        "attenuation": 0.5,
+        "luminosity": 0.5,
+        "saturation": 0,
+        "contrast": 0,
+        "shadows": 0,
+        "animation": {
+          "type": null,
+          "speed": 5,
+          "intensity": 5,
+          "reverse": false
+        },
+        "darkness": {
+          "min": 1,
+          "max": 1
+        }
+      },
+      "hidden": false,
+      "flags": {},
+      "_id": "Yrq6ozeygWw5o6Ub"
+    },
+    {
+      "x": 1100,
+      "y": 2000,
+      "rotation": 0,
+      "walls": true,
+      "vision": false,
+      "config": {
+        "alpha": 0.5,
+        "angle": 360,
+        "bright": 0,
+        "color": null,
+        "coloration": 1,
+        "dim": 40,
+        "attenuation": 0.5,
+        "luminosity": 0.5,
+        "saturation": 0,
+        "contrast": 0,
+        "shadows": 0,
+        "animation": {
+          "type": null,
+          "speed": 5,
+          "intensity": 5,
+          "reverse": false
+        },
+        "darkness": {
+          "min": 1,
+          "max": 1
+        }
+      },
+      "hidden": false,
+      "flags": {},
+      "_id": "hps8eWW0VVH6mCg4"
     }
   ],
   "notes": [],
@@ -4239,7 +4767,7 @@
     "systemVersion": "4.8.2",
     "coreVersion": "10.291",
     "createdTime": 1676775932148,
-    "modifiedTime": 1677544744176,
+    "modifiedTime": 1677608496999,
     "lastModifiedBy": "AQTMS1rzVilmPSeQ"
   }
 }
