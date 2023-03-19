@@ -1,0 +1,737 @@
+{
+  "name": "Mountain Site",
+  "navigation": true,
+  "navOrder": 0,
+  "navName": "",
+  "background": {
+    "src": "FistsOfTheRubyPhoenix/Mountain_Site.webp",
+    "scaleX": 1,
+    "scaleY": 1,
+    "offsetX": 0,
+    "offsetY": 0,
+    "rotation": 0,
+    "tint": null
+  },
+  "foreground": null,
+  "foregroundElevation": 20,
+  "thumb": "worlds/mapmaker/assets/scenes/iZ1TpHcu2uAzfxN6-thumb.webp",
+  "width": 3500,
+  "height": 2500,
+  "padding": 0.25,
+  "initial": {
+    "x": null,
+    "y": null,
+    "scale": null
+  },
+  "backgroundColor": "#999999",
+  "grid": {
+    "type": 1,
+    "size": 100,
+    "color": "#000000",
+    "alpha": 0.2,
+    "distance": 5,
+    "units": "ft"
+  },
+  "tokenVision": true,
+  "fogExploration": true,
+  "fogReset": 1679190065251,
+  "globalLight": false,
+  "globalLightThreshold": null,
+  "darkness": 0,
+  "fogOverlay": null,
+  "fogExploredColor": null,
+  "fogUnexploredColor": null,
+  "drawings": [],
+  "tokens": [],
+  "lights": [],
+  "notes": [],
+  "sounds": [],
+  "templates": [],
+  "tiles": [],
+  "walls": [
+    {
+      "_id": "9vjIg8TysbwylBsr",
+      "c": [
+        887,
+        2037,
+        1100,
+        2075
+      ],
+      "light": 20,
+      "move": 0,
+      "sight": 20,
+      "sound": 20,
+      "dir": 2,
+      "door": 0,
+      "ds": 0,
+      "flags": {}
+    },
+    {
+      "_id": "yHxaXLuggcsT2Ro6",
+      "c": [
+        1100,
+        2075,
+        1212,
+        2100
+      ],
+      "light": 20,
+      "move": 0,
+      "sight": 20,
+      "sound": 20,
+      "dir": 2,
+      "door": 0,
+      "ds": 0,
+      "flags": {}
+    },
+    {
+      "_id": "5o6yPTiIjw45NtBg",
+      "c": [
+        1212,
+        2100,
+        1262,
+        2162
+      ],
+      "light": 20,
+      "move": 0,
+      "sight": 20,
+      "sound": 20,
+      "dir": 2,
+      "door": 0,
+      "ds": 0,
+      "flags": {}
+    },
+    {
+      "_id": "skHLZy6hHvYue1Ki",
+      "c": [
+        1262,
+        2162,
+        1350,
+        2162
+      ],
+      "light": 20,
+      "move": 0,
+      "sight": 20,
+      "sound": 20,
+      "dir": 2,
+      "door": 0,
+      "ds": 0,
+      "flags": {}
+    },
+    {
+      "_id": "OrVP8rzIrLXkhhWU",
+      "c": [
+        1350,
+        2162,
+        1462,
+        2137
+      ],
+      "light": 20,
+      "move": 0,
+      "sight": 20,
+      "sound": 20,
+      "dir": 2,
+      "door": 0,
+      "ds": 0,
+      "flags": {}
+    },
+    {
+      "_id": "tVA5C4sKuUuunU6l",
+      "c": [
+        1462,
+        2137,
+        1537,
+        2150
+      ],
+      "light": 20,
+      "move": 0,
+      "sight": 20,
+      "sound": 20,
+      "dir": 2,
+      "door": 0,
+      "ds": 0,
+      "flags": {}
+    },
+    {
+      "_id": "rZTV3N4ROUq7vC37",
+      "c": [
+        1537,
+        2150,
+        1650,
+        2212
+      ],
+      "light": 20,
+      "move": 0,
+      "sight": 20,
+      "sound": 20,
+      "dir": 2,
+      "door": 0,
+      "ds": 0,
+      "flags": {}
+    },
+    {
+      "_id": "m0NSMP7OnTNaZafE",
+      "c": [
+        1650,
+        2212,
+        1725,
+        2300
+      ],
+      "light": 20,
+      "move": 0,
+      "sight": 20,
+      "sound": 20,
+      "dir": 2,
+      "door": 0,
+      "ds": 0,
+      "flags": {}
+    },
+    {
+      "_id": "rwruTj010NT5TILL",
+      "c": [
+        1725,
+        2300,
+        1800,
+        2312
+      ],
+      "light": 20,
+      "move": 0,
+      "sight": 20,
+      "sound": 20,
+      "dir": 2,
+      "door": 0,
+      "ds": 0,
+      "flags": {}
+    },
+    {
+      "_id": "XmCExFPVhHYwvPWx",
+      "c": [
+        1800,
+        2312,
+        1987,
+        2212
+      ],
+      "light": 20,
+      "move": 0,
+      "sight": 20,
+      "sound": 20,
+      "dir": 2,
+      "door": 0,
+      "ds": 0,
+      "flags": {}
+    },
+    {
+      "_id": "I6Kf9wWjuUsI7lRQ",
+      "c": [
+        1987,
+        2212,
+        2087,
+        2200
+      ],
+      "light": 20,
+      "move": 0,
+      "sight": 20,
+      "sound": 20,
+      "dir": 2,
+      "door": 0,
+      "ds": 0,
+      "flags": {}
+    },
+    {
+      "_id": "zVMXXYyXPrNE7GoS",
+      "c": [
+        2087,
+        2200,
+        2150,
+        2175
+      ],
+      "light": 20,
+      "move": 0,
+      "sight": 20,
+      "sound": 20,
+      "dir": 2,
+      "door": 0,
+      "ds": 0,
+      "flags": {}
+    },
+    {
+      "_id": "kWnTKv70n8CEySSe",
+      "c": [
+        2150,
+        2175,
+        2275,
+        2212
+      ],
+      "light": 20,
+      "move": 0,
+      "sight": 20,
+      "sound": 20,
+      "dir": 2,
+      "door": 0,
+      "ds": 0,
+      "flags": {}
+    },
+    {
+      "_id": "YcunkDGRz0AN2jeq",
+      "c": [
+        2275,
+        2212,
+        2362,
+        2287
+      ],
+      "light": 20,
+      "move": 0,
+      "sight": 20,
+      "sound": 20,
+      "dir": 2,
+      "door": 0,
+      "ds": 0,
+      "flags": {}
+    },
+    {
+      "_id": "Dwz2XPslXWpQpdjf",
+      "c": [
+        2362,
+        2287,
+        2362,
+        2387
+      ],
+      "light": 20,
+      "move": 0,
+      "sight": 20,
+      "sound": 20,
+      "dir": 2,
+      "door": 0,
+      "ds": 0,
+      "flags": {}
+    },
+    {
+      "_id": "qBc1EVTzzegQF4JQ",
+      "c": [
+        2362,
+        2387,
+        2362,
+        2475
+      ],
+      "light": 20,
+      "move": 0,
+      "sight": 20,
+      "sound": 20,
+      "dir": 2,
+      "door": 0,
+      "ds": 0,
+      "flags": {}
+    },
+    {
+      "_id": "Vk0O8GpVSkl9t4fZ",
+      "c": [
+        2362,
+        2475,
+        2325,
+        2562
+      ],
+      "light": 20,
+      "move": 0,
+      "sight": 20,
+      "sound": 20,
+      "dir": 2,
+      "door": 0,
+      "ds": 0,
+      "flags": {}
+    },
+    {
+      "_id": "UGFKSn0sFnGA0okS",
+      "c": [
+        2325,
+        2562,
+        2387,
+        2600
+      ],
+      "light": 20,
+      "move": 0,
+      "sight": 20,
+      "sound": 20,
+      "dir": 2,
+      "door": 0,
+      "ds": 0,
+      "flags": {}
+    },
+    {
+      "_id": "ekdSzAW5PWtQ4RDP",
+      "c": [
+        2387,
+        2600,
+        2475,
+        2612
+      ],
+      "light": 20,
+      "move": 0,
+      "sight": 20,
+      "sound": 20,
+      "dir": 2,
+      "door": 0,
+      "ds": 0,
+      "flags": {}
+    },
+    {
+      "_id": "C62tNUXF3oAiGauN",
+      "c": [
+        2475,
+        2612,
+        2600,
+        2662
+      ],
+      "light": 20,
+      "move": 0,
+      "sight": 20,
+      "sound": 20,
+      "dir": 2,
+      "door": 0,
+      "ds": 0,
+      "flags": {}
+    },
+    {
+      "_id": "DlR2cDExA1gn4PB3",
+      "c": [
+        2600,
+        2662,
+        2725,
+        2725
+      ],
+      "light": 20,
+      "move": 0,
+      "sight": 20,
+      "sound": 20,
+      "dir": 2,
+      "door": 0,
+      "ds": 0,
+      "flags": {}
+    },
+    {
+      "_id": "P1udlKpA0NxAKRJ9",
+      "c": [
+        2725,
+        2725,
+        2800,
+        2800
+      ],
+      "light": 20,
+      "move": 0,
+      "sight": 20,
+      "sound": 20,
+      "dir": 2,
+      "door": 0,
+      "ds": 0,
+      "flags": {}
+    },
+    {
+      "_id": "q79Rhzgz8psEKNiv",
+      "c": [
+        2800,
+        2800,
+        2862,
+        2887
+      ],
+      "light": 20,
+      "move": 0,
+      "sight": 20,
+      "sound": 20,
+      "dir": 2,
+      "door": 0,
+      "ds": 0,
+      "flags": {}
+    },
+    {
+      "_id": "sukfLAtIw4K2w1rb",
+      "c": [
+        2862,
+        2887,
+        2937,
+        3025
+      ],
+      "light": 20,
+      "move": 0,
+      "sight": 20,
+      "sound": 20,
+      "dir": 2,
+      "door": 0,
+      "ds": 0,
+      "flags": {}
+    },
+    {
+      "_id": "m2vAvrfHCVuEgiuz",
+      "c": [
+        2937,
+        3025,
+        2937,
+        3162
+      ],
+      "light": 20,
+      "move": 0,
+      "sight": 20,
+      "sound": 20,
+      "dir": 2,
+      "door": 0,
+      "ds": 0,
+      "flags": {}
+    },
+    {
+      "_id": "1jgSxIjI4KBLVsh6",
+      "c": [
+        2937,
+        3162,
+        2937,
+        3225
+      ],
+      "light": 20,
+      "move": 0,
+      "sight": 20,
+      "sound": 20,
+      "dir": 2,
+      "door": 0,
+      "ds": 0,
+      "flags": {}
+    },
+    {
+      "_id": "dO7wU4njd5TznDnZ",
+      "c": [
+        875,
+        1450,
+        975,
+        1437
+      ],
+      "light": 20,
+      "move": 0,
+      "sight": 20,
+      "sound": 20,
+      "dir": 2,
+      "door": 0,
+      "ds": 0,
+      "flags": {}
+    },
+    {
+      "_id": "CK3ubolEWhtacfEa",
+      "c": [
+        975,
+        1437,
+        1100,
+        1450
+      ],
+      "light": 20,
+      "move": 0,
+      "sight": 20,
+      "sound": 20,
+      "dir": 2,
+      "door": 0,
+      "ds": 0,
+      "flags": {}
+    },
+    {
+      "_id": "jGIqyrysx1sbKN20",
+      "c": [
+        1100,
+        1450,
+        1200,
+        1425
+      ],
+      "light": 20,
+      "move": 0,
+      "sight": 20,
+      "sound": 20,
+      "dir": 2,
+      "door": 0,
+      "ds": 0,
+      "flags": {}
+    },
+    {
+      "_id": "kOJOi7xUXdm1uOMA",
+      "c": [
+        1200,
+        1425,
+        1262,
+        1400
+      ],
+      "light": 20,
+      "move": 0,
+      "sight": 20,
+      "sound": 20,
+      "dir": 2,
+      "door": 0,
+      "ds": 0,
+      "flags": {}
+    },
+    {
+      "_id": "aJw2t03H5B9zycas",
+      "c": [
+        1262,
+        1400,
+        1375,
+        1350
+      ],
+      "light": 20,
+      "move": 0,
+      "sight": 20,
+      "sound": 20,
+      "dir": 2,
+      "door": 0,
+      "ds": 0,
+      "flags": {}
+    },
+    {
+      "_id": "wdwmrcOxPd12wiN1",
+      "c": [
+        1375,
+        1350,
+        1462,
+        1262
+      ],
+      "light": 20,
+      "move": 0,
+      "sight": 20,
+      "sound": 20,
+      "dir": 2,
+      "door": 0,
+      "ds": 0,
+      "flags": {}
+    },
+    {
+      "_id": "DHRryb8m90767TlL",
+      "c": [
+        1462,
+        1262,
+        1725,
+        1187
+      ],
+      "light": 20,
+      "move": 0,
+      "sight": 20,
+      "sound": 20,
+      "dir": 2,
+      "door": 0,
+      "ds": 0,
+      "flags": {}
+    },
+    {
+      "_id": "MZrNCvVeAW0u6sM0",
+      "c": [
+        1725,
+        1187,
+        1875,
+        1162
+      ],
+      "light": 20,
+      "move": 0,
+      "sight": 20,
+      "sound": 20,
+      "dir": 2,
+      "door": 0,
+      "ds": 0,
+      "flags": {}
+    },
+    {
+      "_id": "anBv8hluarS9dcQT",
+      "c": [
+        1875,
+        1162,
+        1987,
+        1075
+      ],
+      "light": 20,
+      "move": 0,
+      "sight": 20,
+      "sound": 20,
+      "dir": 2,
+      "door": 0,
+      "ds": 0,
+      "flags": {}
+    },
+    {
+      "_id": "LJELS3Y10cFIv6Eo",
+      "c": [
+        1987,
+        1075,
+        2075,
+        987
+      ],
+      "light": 20,
+      "move": 0,
+      "sight": 20,
+      "sound": 20,
+      "dir": 2,
+      "door": 0,
+      "ds": 0,
+      "flags": {}
+    },
+    {
+      "_id": "UIsyBiGQZ1Ksy2gy",
+      "c": [
+        2075,
+        987,
+        2150,
+        875
+      ],
+      "light": 20,
+      "move": 0,
+      "sight": 20,
+      "sound": 20,
+      "dir": 2,
+      "door": 0,
+      "ds": 0,
+      "flags": {}
+    },
+    {
+      "_id": "JfVB6jrjLu9EPMQ9",
+      "c": [
+        2150,
+        875,
+        2187,
+        775
+      ],
+      "light": 20,
+      "move": 0,
+      "sight": 20,
+      "sound": 20,
+      "dir": 2,
+      "door": 0,
+      "ds": 0,
+      "flags": {}
+    },
+    {
+      "_id": "5RNAdpg7MiPaljoP",
+      "c": [
+        2187,
+        775,
+        2200,
+        687
+      ],
+      "light": 20,
+      "move": 0,
+      "sight": 20,
+      "sound": 20,
+      "dir": 2,
+      "door": 0,
+      "ds": 0,
+      "flags": {}
+    }
+  ],
+  "playlist": null,
+  "playlistSound": null,
+  "journal": null,
+  "journalEntryPage": null,
+  "weather": "",
+  "flags": {
+    "exportSource": {
+      "world": "mapmaker",
+      "system": "pf2e",
+      "coreVersion": "10.291",
+      "systemVersion": "4.9.3"
+    }
+  },
+  "_stats": {
+    "systemId": "pf2e",
+    "systemVersion": "4.9.3",
+    "coreVersion": "10.291",
+    "createdTime": 1679190065254,
+    "modifiedTime": 1679190074869,
+    "lastModifiedBy": "Q7Gny22w7KpHN1Xa"
+  }
+}
