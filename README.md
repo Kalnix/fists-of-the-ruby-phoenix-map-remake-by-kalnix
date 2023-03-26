@@ -2,7 +2,7 @@
 My FOTRP make remakes for Pathfinder 2nd Edition
 
 THIS IS A WORK IN PROGRESS. I am a player in FOTRP so I can only make maps at the rate we play on them or what my GM is comfortable with sharing ahead of time.
-I might turn this into a FoundryVTT module at some point but that would be far in the future when we have at least finished book 1. For now I have JSON files for the maps which you should be able to import and then give it the path to the right image.
+As of 2023-03-26 now I have finished the maps for Book 1, but as my group has not finished Book 1 yet, Book 2 maps will probably be a ways off.
 
 This is a map remake of the adventures from the Fists of the Ruby Phoenix souce book created by Paizo. You can buy the book here https://paizo.com/products/btq02eca?Pathfinder-Adventure-Path-Fists-of-the-Ruby-Phoenix It does not have any of the content besides remade maps, you will need to own the book to be able to run the adventure path.
 
@@ -12,6 +12,8 @@ Maps are usually 100x100 pixels.
 
 
 Credits
+
+u/thenewnoisethriller for their stellar remake of the Danger Island Hex map as well as letting me include it in this module.
 
 Paizo - For making these fantastic adventures. Some of the copyright/trademarks are owned by Paizo and used under their Community Use Policy. These maps remakes were not created by, endorsed or approved by Paizo.
 
