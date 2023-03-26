@@ -1,0 +1,42 @@
+{
+  "id": "fists-of-the-ruby-phoenix-map-remakes-by-kalnix",
+  "title": "Fists of the Ruby Phoenix Map Remakes by Kalnix",
+  "description": "Map remakes for the Fists of the Ruby Phoenix Adventure Path by Paizo.",
+  "url": "https://github.com/Kalnix/fists-of-the-ruby-phoenix-map-remake-by-kalnix",
+  "version": "1.0.0",
+  "authors": [
+    {
+      "name": "Kalnix",
+      "flags": {}
+    }
+  ],
+  "compatibility": {
+    "minimum": "10.291",
+    "verified": "10.291"
+  },
+  "relationships": {
+    "systems": [
+      {
+        "id": "pf2e",
+        "type": "system",
+        "manifest": "https://github.com/foundryvtt/pf2e/releases/latest/download/system.json",
+        "compatibility": {
+          "minimum": "4.9.3"
+        }
+      }
+    ]
+  },
+  "packs": [
+    {
+      "label": "Fists of the Ruby Phoenix Book 1 Map Remakes by Kalnix",
+      "type": "Adventure",
+      "name": "fists-of-the-ruby-map-remakes-book-1-by-kalnix",
+      "path": "packs/fists-of-the-ruby-map-remakes-book-1-by-kalnix.db",
+      "system": "pf2e",
+      "private": false,
+      "flags": {}
+    }
+  ],
+  "manifest": "https://raw.githubusercontent.com/Kalnix/fists-of-the-ruby-phoenix-map-remakes-by-kalnix/master/module.json",
+  "download": "https://github.com/Kalnix/fists-of-the-ruby-phoenix-map-remake-by-kalnix/archive/refs/heads/main.zip"
+}
