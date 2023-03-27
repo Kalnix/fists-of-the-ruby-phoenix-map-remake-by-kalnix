@@ -1,5 +1,5 @@
 # fists-of-the-ruby-phoenix-map-remake-by-kalnix
-My FOTRP make remakes for Pathfinder 2nd Edition
+My FOTRP map remakes for Pathfinder 2nd Edition
 
 THIS IS A WORK IN PROGRESS. I am a player in FOTRP so I can only make maps at the rate we play on them or what my GM is comfortable with sharing ahead of time.
 As of 2023-03-26 now I have finished the maps for Book 1, but as my group has not finished Book 1 yet, Book 2 maps will probably be a ways off.
