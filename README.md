@@ -1,4 +1,6 @@
 # fists-of-the-ruby-phoenix-map-remake-by-kalnix
+Version 1.0.1 Re-exported the maps from DungeonDraft with a lower quality. The actual quality in play is barely noticable but it reduces the size of the book 1 maps from around 350MB for all of them down to 94MB. I also removed the DungeonDraft grid from the maps so that people can use their own grid or no grid if they like. Furthermore, I tweaked a coupe of maps as well as added Forest Battle which I forgot to make a scene for in version 1.0.0
+
 My FOTRP map remakes for Pathfinder 2nd Edition
 
 THIS IS A WORK IN PROGRESS. I am a player in FOTRP so I can only make maps at the rate we play on them or what my GM is comfortable with sharing ahead of time.
