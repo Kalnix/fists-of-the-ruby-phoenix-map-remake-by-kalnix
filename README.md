@@ -1,4 +1,6 @@
 # fists-of-the-ruby-phoenix-map-remake-by-kalnix
+Version 1.1.1 Updated a book 1 map with tiles and macros to move those tiles into position. You can find the macros in the Macro Folder at the bottom of the screen near the currently logged in users and the macro bar.
+
 Version 1.1.0 My group finished the titualar Danger Island and as such the GM told me some secrets we missed and that I have had to update in the maps including changing some walling. I have also fixed an issue where I deleted water on one of the maps by mistake last release. Finally, more tweaks to shadows.
 
 Version 1.0.2 Fixed some path issues and converted the Hex map from a PNG to a webp. This plus the changes made in 1.0.1 reduced the size of the map pack from 350MB to now 67.5MB with very minimal loss in quality. Also very slight tweak to River Site.
