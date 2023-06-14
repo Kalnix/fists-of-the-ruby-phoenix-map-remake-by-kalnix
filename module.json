@@ -28,10 +28,10 @@
   },
   "packs": [
     {
-      "label": "Fists of the Ruby Phoenix Book 1 Map Remakes by Kalnix",
+      "label": "Fists of the Ruby Phoenix Map Remakes by Kalnix",
       "type": "Adventure",
-      "name": "fists-of-the-ruby-map-remakes-book-1-by-kalnix",
-      "path": "packs/fists-of-the-ruby-map-remakes-book-1-by-kalnix.db",
+      "name": "fists-of-the-ruby-phoenix-map-remakes-by-kalnix",
+      "path": "fists-of-the-ruby-phoenix-map-remakes-by-kalnix.db",
       "system": "pf2e",
       "private": false,
       "flags": {}
