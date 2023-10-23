@@ -11,8 +11,8 @@
     }
   ],
   "compatibility": {
-    "minimum": "10.291",
-    "verified": "10.291"
+    "minimum": "11",
+    "verified": "11"
   },
   "relationships": {
     "systems": [
@@ -21,7 +21,7 @@
         "type": "system",
         "manifest": "https://github.com/foundryvtt/pf2e/releases/latest/download/system.json",
         "compatibility": {
-          "minimum": "4.9.3"
+          "minimum": "5.7.3"
         }
       }
     ]
@@ -31,8 +31,13 @@
       "label": "Fists of the Ruby Phoenix Map Remakes by Kalnix",
       "type": "Adventure",
       "name": "fists-of-the-ruby-phoenix-map-remakes-by-kalnix",
-      "path": "packs/fists-of-the-ruby-phoenix-map-remakes-by-kalnix.db",
+      "path": "packs/fists-of-the-ruby-phoenix-map-remakes-by-kalnix",
       "system": "pf2e",
+      "type": "Adventure",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
       "private": false,
       "flags": {}
     }
