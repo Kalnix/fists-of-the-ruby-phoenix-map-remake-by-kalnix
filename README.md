@@ -17,6 +17,8 @@ Credits
 
 u/thenewnoisethriller for their stellar remake of the Danger Island Hex map as well as letting me include it in this module.
 
+https://twitter.com/Ryokatsudon for the Tournament Bracket image they created.
+
 Paizo - For making these fantastic adventures. Some of the copyright/trademarks are owned by Paizo and used under their Community Use Policy. These maps remakes were not created by, endorsed or approved by Paizo.
 
 DungeonDraft - The program I used to create the maps.
