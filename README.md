@@ -1,10 +1,10 @@
 # fists-of-the-ruby-phoenix-map-remake-by-kalnix
-Version 1.2.0 About half of the maps for book 2 added. All of the maps for chapter 1 and a couple for later chapters.
+Version 2.0.0 The module has (finally) been updated for v11 and along with it are the rest of the maps to complete book 2 of the AP. Do note a couple of the maps have macros in the macro folder next to the macro bar that will allow for updating of certain scenes depending on what happens in the game. It also has a scene for the tournament bracket, thanks to https://twitter.com/Ryokatsudon for letting me use it.
 
 My FOTRP map remakes for Pathfinder 2nd Edition
 
 THIS IS A WORK IN PROGRESS. I am a player in FOTRP so I can only make maps at the rate we play on them or what my GM is comfortable with sharing ahead of time.
-As of 2023-06-14 I am about 60% done with the maps for book 2 according to my GM but at least all of the maps needed for chapter 1 is complete.
+As of 2023-10-23 I am done with all the maps up through book 2 and we have one session left in book 2.
 
 This is a map remake of the adventures from the Fists of the Ruby Phoenix souce book created by Paizo. You can buy the book here https://paizo.com/products/btq02eca?Pathfinder-Adventure-Path-Fists-of-the-Ruby-Phoenix It does not have any of the content besides remade maps, you will need to own the book to be able to run the adventure path.
 
