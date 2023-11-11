@@ -1,3 +1,5 @@
-2023/10/23-19:24:56.176 4a1c Recovering log #20
-2023/10/23-19:24:56.179 4a1c Delete type=0 #20
-2023/10/23-19:24:56.179 4a1c Delete type=3 #19
+2023/11/11-14:23:32.176 4fd4 Recovering log #25
+2023/11/11-14:23:32.176 4fd4 Level-0 table #27: started
+2023/11/11-14:23:32.180 4fd4 Level-0 table #27: 571 bytes OK
+2023/11/11-14:23:32.183 4fd4 Delete type=0 #25
+2023/11/11-14:23:32.183 4fd4 Delete type=3 #23
