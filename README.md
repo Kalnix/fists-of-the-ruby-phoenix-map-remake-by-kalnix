@@ -6,7 +6,7 @@ Version 2.0.0 The module has (finally) been updated for v11 and along with it ar
 My FOTRP map remakes for Pathfinder 2nd Edition
 
 THIS IS A WORK IN PROGRESS. I am a player in FOTRP so I can only make maps at the rate we play on them or what my GM is comfortable with sharing ahead of time.
-As of 2023-10-23 I am done with all the maps up through book 2.
+As of 2023-11-11 I am done with all the maps up through book 2 and some maps in book 3.
 
 This is a map remake of the adventures from the Fists of the Ruby Phoenix souce book created by Paizo. You can buy the book here https://paizo.com/products/btq02eca?Pathfinder-Adventure-Path-Fists-of-the-Ruby-Phoenix It does not have any of the content besides remade maps, you will need to own the book to be able to run the adventure path.
 
