@@ -1,4 +1,6 @@
 # fists-of-the-ruby-phoenix-map-remake-by-kalnix
+Version 2.1.1 One more book 3 map has been added, this time created with Crosshead assets
+
 Version 2.1.0 Some book 3 maps have now been added, one of which has a macro.
 
 Version 2.0.0 The module has (finally) been updated for v11 and along with it are the rest of the maps to complete book 2 of the AP. Do note a couple of the maps have macros in the macro folder next to the macro bar that will allow for updating of certain scenes depending on what happens in the game. It also has a scene for the tournament bracket, thanks to https://twitter.com/Ryokatsudon for letting me use it.
@@ -24,6 +26,6 @@ Paizo - For making these fantastic adventures. Some of the copyright/trademarks 
 
 DungeonDraft - The program I used to create the maps.
 
-Forgotten Adventures - The assets used to make the maps.
+Forgotten Adventures - The assets used to make most of the maps.
 
-Crosshead Assets - Used to make one of the maps.
+Crosshead Assets - Used to make some of the maps.
