@@ -1,4 +1,6 @@
 # fists-of-the-ruby-phoenix-map-remake-by-kalnix
+Version 2.1.2 Fixed some issues with a book 2 map. Updated some book 3 maps to have proper names. Tweaked a book 3 map to have 2 versions.
+
 Version 2.1.1 One more book 3 map has been added, this time created with Crosshead assets
 
 Version 2.1.0 Some book 3 maps have now been added, one of which has a macro.
