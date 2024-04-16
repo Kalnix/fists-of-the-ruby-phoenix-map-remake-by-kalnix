@@ -11,9 +11,7 @@ Version 2.0.0 The module has (finally) been updated for v11 and along with it ar
 
 My Fists of the Ruby Phoenix map remakes for Pathfinder 2nd Edition
 
-THIS IS A WORK IN PROGRESS. I am a player in FOTRP so I can only make maps at the rate we play on them or what my GM is comfortable with sharing ahead of time.
-As of 2023-03-04 I am done with all the maps up through Book 3 Chapter 2. My GM does not want me making any of the maps for chapter 3 until the campaign is over as to not spoil the last part of the AP.
-This means there will be no more new maps for at least a couple of months.
+THIS IS A WORK IN PROGRESS. Book 3 Chapter 3 maps are incomplete
 
 This is a map remake of the adventures from the Fists of the Ruby Phoenix souce book created by Paizo. You can buy the book here https://paizo.com/products/btq02eca?Pathfinder-Adventure-Path-Fists-of-the-Ruby-Phoenix It does not have any of the content besides remade maps, you will need to own the book to be able to run the adventure path.
 
