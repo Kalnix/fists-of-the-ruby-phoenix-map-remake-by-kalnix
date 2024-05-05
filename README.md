@@ -1,6 +1,6 @@
 # fists-of-the-ruby-phoenix-map-remake-by-kalnix
 Version 3.0.0
-The map remakes are finally complete!
+The module is complete!
 
 My Fists of the Ruby Phoenix map remakes for Pathfinder 2nd Edition
 
