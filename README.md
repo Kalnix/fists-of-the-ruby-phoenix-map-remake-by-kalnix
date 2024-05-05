@@ -1,23 +1,14 @@
 # fists-of-the-ruby-phoenix-map-remake-by-kalnix
-Version 2.2.0 Completed the maps for Book 3 Chapter 2. There will be no more maps until after the campaign is finished so this will probably be the last update for at least a couple of months.
-
-Version 2.1.2 Fixed some issues with a book 2 map. Updated some book 3 maps to have proper names. Tweaked a book 3 map to have 2 versions.
-
-Version 2.1.1 One more book 3 map has been added, this time created with Crosshead assets
-
-Version 2.1.0 Some book 3 maps have now been added, one of which has a macro.
-
-Version 2.0.0 The module has (finally) been updated for v11 and along with it are the rest of the maps to complete book 2 of the AP. Do note a couple of the maps have macros in the macro folder next to the macro bar that will allow for updating of certain scenes depending on what happens in the game. It also has a scene for the tournament bracket, thanks to https://twitter.com/Ryokatsudon for letting me use it.
+Version 3.0.0
+The map remakes are finally complete!
 
 My Fists of the Ruby Phoenix map remakes for Pathfinder 2nd Edition
 
-THIS IS A WORK IN PROGRESS. Book 3 Chapter 3 maps are incomplete
-
 This is a map remake of the adventures from the Fists of the Ruby Phoenix souce book created by Paizo. You can buy the book here https://paizo.com/products/btq02eca?Pathfinder-Adventure-Path-Fists-of-the-Ruby-Phoenix It does not have any of the content besides remade maps, you will need to own the book to be able to run the adventure path.
 
-I have also taken artistic liberty with some of the maps in the book as I did not have a great way to recreate some of them in DungeonDraft. I have also created lots of new generic battlemaps for use during the island portion of the book such as a beach, a cave, a mountain pass, a plains and a forest. There are also new maps for certain book 2 locations that have encounters but no corresponding map in the book.
+I have also taken artistic liberty with some of the maps in the book as I did not have a great way to recreate some of them in DungeonDraft. I have also created lots of new maps for locations that do not have maps in the book.
 
-Maps are usually 100x100 pixels per square, though some are 150x150 and a few are 200x200.
+Maps range from 100px per square to 200px per square.
 
 Credits
 
